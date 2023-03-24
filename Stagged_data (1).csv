@@ -1,0 +1,559 @@
+,Surrogate Keys,Job Title,Rating,Company Name,City,Size,Type of ownership,Industry,Min Salary,Max Salary,Avg Salary,Job_classification,State
+0,1,Data Scientist,3.8,Tecolote Research 3.8,Albuquerque,501 to 1000 employees,Company - Private,Aerospace & Defense,53,91,72.0,data scientist, NM
+1,2,Healthcare Data Scientist,3.4,University of Maryland Medical System 3.4,Linthicum,10000+ employees,Other Organization,Health Care Services & Hospitals,63,112,87.5,data scientist, MD
+2,3,Data Scientist,4.8,KnowBe4 4.8,Clearwater,501 to 1000 employees,Company - Private,Security Services,80,90,85.0,data scientist, FL
+3,4,Data Scientist,3.8,PNNL 3.8,Richland,1001 to 5000 employees,Government,Energy,56,97,76.5,data scientist, WA
+4,5,Data Scientist,2.9,Affinity Solutions 2.9,New York,51 to 200 employees,Company - Private,Advertising & Marketing,86,143,114.5,data scientist, NY
+5,6,Data Scientist,3.4,CyrusOne 3.4,Dallas,201 to 500 employees,Company - Public,Real Estate,71,119,95.0,data scientist, TX
+6,7,Data Scientist,4.1,ClearOne Advantage 4.1,Baltimore,501 to 1000 employees,Company - Private,Banks & Credit Unions,54,93,73.5,data scientist, MD
+7,8,Data Scientist,3.8,Logic20/20 3.8,San Jose,201 to 500 employees,Company - Private,Consulting,86,142,114.0,data scientist, CA
+9,9,Data Scientist,4.6,<intent> 4.6,New York,51 to 200 employees,Company - Private,Internet,120,160,140.0,data scientist, NY
+10,10,Data Scientist,3.5,Wish 3.5,San Jose,501 to 1000 employees,Company - Private,Other Retail Stores,126,201,163.5,data scientist, CA
+11,11,Data Scientist,4.1,ManTech 4.1,Chantilly,5001 to 10000 employees,Company - Public,Research & Development,64,106,85.0,data scientist, VA
+12,12,Staff Data Scientist - Technology,3.2,Walmart 3.2,Plano,10000+ employees,Company - Public,"Department, Clothing, & Shoe Stores",106,172,139.0,data scientist, TX
+13,13,Data Analyst,4.1,Yesler 4.1,Seattle,201 to 500 employees,Company - Private,Advertising & Marketing,46,85,65.5,analyst, WA
+14,14,Data Scientist,3.7,Takeda Pharmaceuticals 3.7,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,83,144,113.5,data scientist, MA
+15,15,Data Engineer I,3.6,Audible 3.6,Newark,1001 to 5000 employees,Subsidiary or Business Segment,Motion Picture Production & Distribution,102,190,146.0,data engineer, NJ
+17,16,Customer Data Scientist,4.3,h2o.ai 4.3,Mountain View,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,118,189,153.5,data scientist, CA
+18,17,Data Scientist - Health Data Analytics,4.2,Nuna 4.2,San Francisco,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,110,175,142.5,data scientist, CA
+19,18,Data Scientist,4.0,Pinnacol Assurance 4.0,Denver,501 to 1000 employees,Nonprofit Organization,Insurance Carriers,64,111,87.5,data scientist, CO
+20,19,Data Scientist,3.2,Porch 3.2,Seattle,201 to 500 employees,Company - Private,Internet,81,130,105.5,data scientist, WA
+21,20,Senior Data Scientist / Machine Learning,3.9,Health IQ 3.9,Dallas,201 to 500 employees,Company - Private,Insurance Agencies & Brokerages,73,119,96.0,data scientist, TX
+22,21,Data Scientist - Quantitative,3.8,Truckstop.com 3.8,Chicago,501 to 1000 employees,Company - Private,Logistics & Supply Chain,86,139,112.5,data scientist, IL
+23,22,Data Scientist,4.3,SMC 3 4.3,Louisville,51 to 200 employees,Nonprofit Organization,Logistics & Supply Chain,63,105,84.0,data scientist, KY
+24,23,Data Scientist,4.0,Novetta 4.0,Herndon,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,109,177,143.0,data scientist, VA
+25,24,Digital Health Data Scientist,4.0,Pfizer 4.0,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,63,110,86.5,data scientist, MA
+26,25,Data Scientist,3.5,First Tech Federal Credit Union 3.5,Hillsboro,1001 to 5000 employees,Company - Private,Banks & Credit Unions,75,124,99.5,data scientist, OR
+27,26,Associate Data Analyst,3.7,The Hanover Insurance Group 3.7,Worcester,5001 to 10000 employees,Company - Public,Insurance Carriers,34,61,47.5,analyst, MA
+28,27,Clinical Data Scientist,4.0,Pfizer 4.0,Groton,10000+ employees,Company - Public,Biotech & Pharmaceuticals,63,105,84.0,data scientist, CT
+29,28,Data Scientist,4.8,KnowBe4 4.8,Clearwater,501 to 1000 employees,Company - Private,Security Services,80,90,85.0,data scientist, FL
+30,29,Data Scientist,3.8,PNNL 3.8,Richland,1001 to 5000 employees,Government,Energy,56,97,76.5,data scientist, WA
+31,30,Data Scientist,3.6,Amrock 3.6,Detroit,1001 to 5000 employees,Company - Private,Real Estate,72,120,96.0,data scientist, MI
+32,31,Data Scientist / Machine Learning Expert,3.8,Novartis 3.8,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,86,143,114.5,data scientist, MA
+33,32,Data Scientist,3.8,Juniper Networks 3.8,Sunnyvale,5001 to 10000 employees,Company - Public,Telecommunications Services,93,149,121.0,data scientist, CA
+34,33,Data Scientist,4.7,New England Biolabs 4.7,Ipswich,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,85,140,112.5,data scientist, MA
+35,34,Web Data Analyst,4.2,Clarity Insights 4.2,San Jose,201 to 500 employees,Company - Private,IT Services,77,135,106.0,analyst, CA
+36,35,Data Scientist,3.5,Esri 3.5,Redlands,1001 to 5000 employees,Company - Private,Computer Hardware & Software,82,132,107.0,data scientist, CA
+37,36,Data Scientist,4.7,Systems & Technology Research 4.7,Woburn,201 to 500 employees,Company - Private,Aerospace & Defense,83,137,110.0,data scientist, MA
+38,37,Senior Data Scientist,3.5,Sartorius 3.5,Fremont,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,115,180,147.5,data scientist, CA
+39,38,Data Engineer,3.5,Lancer Insurance 3.5,Long Beach,201 to 500 employees,Company - Private,Insurance Carriers,74,138,106.0,data engineer, NY
+40,39,Data Analyst,4.2,Sauce Labs 4.2,San Francisco,201 to 500 employees,Company - Private,IT Services,64,112,88.0,analyst, CA
+41,40,Data Engineer,3.6,Persivia 3.6,Marlborough,1 to 50 employees,Company - Private,-1,68,129,98.5,data engineer, MA
+42,41,Data Scientist - Algorithms & Inference,4.2,Nuna 4.2,San Francisco,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,110,175,142.5,data scientist, CA
+44,42,Senior Data Scientist,4.3,Equity Residential 4.3,Chicago,1001 to 5000 employees,Company - Public,Real Estate,110,150,130.0,data scientist, IL
+45,43,Data Scientist,5.0,BPA Services 5.0,Washington,Unknown,Company - Private,Enterprise Software & Network Solutions,150,160,155.0,data scientist, DC
+46,44,Lead Data Scientist,3.7,Visa Inc. 3.7,Bellevue,10000+ employees,Company - Public,IT Services,158,211,184.5,data scientist, WA
+47,45,Associate Data Analyst,3.1,Intrado 3.1,Longmont,5001 to 10000 employees,Company - Private,Enterprise Software & Network Solutions,20,39,29.5,analyst, CO
+49,46,College Hire - Data Scientist - Open to December 2019 Graduates,3.7,Caterpillar 3.7,Peoria,10000+ employees,Company - Public,Industrial Manufacturing,63,99,81.0,data scientist, IL
+50,47,Data Scientist,3.8,Zimmerman Advertising 3.8,Fort Lauderdale,501 to 1000 employees,Subsidiary or Business Segment,Advertising & Marketing,68,114,91.0,data scientist, FL
+51,48,"Data Scientist, Office of Data Science",3.3,Liberty Mutual Insurance 3.3,Boston,10000+ employees,Company - Private,Insurance Carriers,86,143,114.5,data scientist, MA
+52,49,Data Science Analyst,4.6,"Torch Technologies, Inc. 4.6",Huntsville,1001 to 5000 employees,Company - Private,Aerospace & Defense,41,95,68.0,analyst, AL
+53,50,Data Scientist,3.7,Swiss Re 3.7,Armonk,10000+ employees,Company - Public,Insurance Agencies & Brokerages,86,144,115.0,data scientist, NY
+54,51,Data Scientist,3.7,Northrop Grumman 3.7,San Diego,10000+ employees,Company - Public,Aerospace & Defense,80,139,109.5,data scientist, CA
+55,52,Data Scientist,3.5,Sartorius 3.5,Albuquerque,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,56,95,75.5,data scientist, NM
+56,53,Data Scientist,4.1,Netskope 4.1,San Francisco,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,120,189,154.5,data scientist, CA
+57,54,Data Scientist,4.7,1904labs 4.7,Saint Louis,51 to 200 employees,Company - Private,IT Services,111,176,143.5,data scientist, MO
+58,55,Data Scientist,4.1,ClearOne Advantage 4.1,Baltimore,501 to 1000 employees,Company - Private,Banks & Credit Unions,54,93,73.5,data scientist, MD
+59,56,Data Scientist,3.4,CyrusOne 3.4,Dallas,201 to 500 employees,Company - Public,Real Estate,71,119,95.0,data scientist, TX
+60,57,Senior Data Scientist,4.4,The David J. Joseph Company 4.4,Cincinnati,201 to 500 employees,Subsidiary or Business Segment,Metals Brokers,82,132,107.0,data scientist, OH
+61,58,Data Scientist,4.3,USEReady 4.3,New York,201 to 500 employees,Company - Private,Consulting,84,146,115.0,data scientist, NY
+62,59,Senior Risk Data Scientist,3.8,Bill.com 3.8,Palo Alto,501 to 1000 employees,Company - Public,Financial Transaction Processing,107,172,139.5,data scientist, CA
+63,60,Data Scientist in Artificial Intelligence Early Career,3.8,Pacific Northwest National Laboratory 3.8,Richland,1001 to 5000 employees,Government,Energy,49,85,67.0,data scientist, WA
+64,61,Data Scientist,3.8,DICK'S Sporting Goods - Corporate 3.8,Coraopolis,10000+ employees,Company - Public,Sporting Goods Stores,61,109,85.0,data scientist, PA
+65,62,Data Scientist,2.8,Berg Health 2.8,Framingham,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,88,148,118.0,data scientist, MA
+66,63,Data Scientist,4.7,Oversight Systems 4.7,Atlanta,51 to 200 employees,Company - Private,Computer Hardware & Software,60,99,79.5,data scientist, GA
+67,64,Data Scientist - Research,3.1,C Space 3.1,Boston,201 to 500 employees,Company - Public,Advertising & Marketing,41,72,56.5,data scientist, MA
+68,65,Data Scientist,3.2,"Numeric, LLC 3.2",Philadelphia,1 to 50 employees,Company - Private,Staffing & Outsourcing,96,161,128.5,data scientist, PA
+71,66,"Director, Data Science",3.6,Grainger 3.6,Lake Forest,10000+ employees,Company - Public,Wholesale,139,220,179.5,director, IL
+73,67,Data Scientist SR,3.9,The Buffalo Group 3.9,Charlottesville,501 to 1000 employees,Company - Private,IT Services,85,139,112.0,data scientist, VA
+74,68,Data Scientist,3.1,Carmeuse 3.1,Pittsburgh,1001 to 5000 employees,Company - Private,Mining,74,122,98.0,data scientist, PA
+75,69,R&D Sr Data Scientist,4.0,HP Inc. 4.0,Vancouver,10000+ employees,Company - Public,Computer Hardware & Software,99,157,128.0,data scientist, WA
+76,70,Customer Data Scientist/Sales Engineer (Bay,4.3,h2o.ai 4.3,Mountain View,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,79,222,150.5,data scientist, CA
+78,71,Data Scientist,3.3,Peraton 3.3,Chantilly,1001 to 5000 employees,Company - Private,Aerospace & Defense,83,137,110.0,data scientist, VA
+79,72,Data Scientist,4.4,Pactera 4.4,San Jose,10000+ employees,Company - Private,IT Services,86,141,113.5,data scientist, CA
+80,73,Data Scientist,3.9,Nurx 3.9,San Francisco,51 to 200 employees,Company - Private,Health Care Services & Hospitals,94,154,124.0,data scientist, CA
+81,74,Jr. Business Data Analyst,4.7,webfx.com 4.7,Harrisburg,201 to 500 employees,Company - Private,Advertising & Marketing,37,76,56.5,analyst, PA
+82,75,Data Scientist,4.5,Johns Hopkins University Applied Physics Laboratory 4.5,Laurel,5001 to 10000 employees,Nonprofit Organization,Aerospace & Defense,100,160,130.0,data scientist, MD
+83,76,Data Analyst,4.3,Productive Edge 4.3,Chicago,51 to 200 employees,Company - Private,Computer Hardware & Software,55,100,77.5,analyst, IL
+84,77,Data Engineer,4.0,Excella Consulting 4.0,Arlington,201 to 500 employees,Company - Private,Consulting,60,114,87.0,data engineer, VA
+85,78,Data Analyst,4.4,Gensco 4.4,Tacoma,501 to 1000 employees,Company - Private,Wholesale,39,68,53.5,analyst, WA
+86,79,Staff Data Scientist - Technology,3.2,Walmart 3.2,Plano,10000+ employees,Company - Public,"Department, Clothing, & Shoe Stores",106,172,139.0,data scientist, TX
+87,80,Data Scientist,3.8,Logic20/20 3.8,San Jose,201 to 500 employees,Company - Private,Consulting,86,142,114.0,data scientist, CA
+88,81,Data Scientist,4.2,goTRG 4.2,Miami,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,64,107,85.5,data scientist, FL
+90,82,E-Commerce Data Analyst,3.5,iSeatz 3.5,New Orleans,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,34,62,48.0,analyst, LA
+92,83,Insurance Data Scientist,3.9,TransUnion 3.9,Atlanta,5001 to 10000 employees,Company - Public,Financial Analytics & Research,64,106,85.0,data scientist, GA
+94,84,Data Analyst / Scientist,4.2,Scientific Research Corporation 4.2,Patuxent River,1001 to 5000 employees,Company - Private,IT Services,52,93,72.5,analyst, MD
+96,85,Data Scientist,3.2,MITRE 3.2,McLean,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,72,123,97.5,data scientist, VA
+97,86,Data Scientist,3.9,The Buffalo Group 3.9,Fort Belvoir,501 to 1000 employees,Company - Private,IT Services,74,124,99.0,data scientist, VA
+98,87,Data Analyst,3.1,DentaQuest 3.1,Milwaukee,1001 to 5000 employees,Company - Private,Insurance Carriers,40,73,56.5,analyst, WI
+99,88,Lead Data Scientist,4.1,Redjack 4.1,Silver Spring,1 to 50 employees,Company - Private,IT Services,102,164,133.0,data scientist, MD
+100,89,Data Scientist,3.8,7Park Data 3.8,New York,51 to 200 employees,Company - Private,Research & Development,89,153,121.0,data scientist, NY
+101,90,Data Scientist,4.7,Rapid Response Monitoring 4.7,Syracuse,501 to 1000 employees,Company - Private,Security Services,61,110,85.5,data scientist, NY
+102,91,"Data Scientist, Rice University",4.3,Trilogy Ed 4.3,Houston,1001 to 5000 employees,Subsidiary or Business Segment,Education Training Services,65,110,87.5,data scientist, TX
+103,92,Senior Data Scientist,4.2,Gallup 4.2,Washington,1001 to 5000 employees,Company - Private,Consulting,200,275,237.5,data scientist, DC
+104,93,Data Engineer,3.9,CapTech 3.9,Charlotte,1001 to 5000 employees,Company - Private,IT Services,68,123,95.5,data engineer, NC
+105,94,Senior Data Scientist,3.3,American Axle & Manufacturing 3.3,Southfield,10000+ employees,Company - Public,Transportation Equipment Manufacturing,80,129,104.5,data scientist, MI
+106,95,Financial Data Analyst,4.7,CentralReach 4.7,Matawan,201 to 500 employees,Company - Private,Computer Hardware & Software,41,72,56.5,analyst, NJ
+107,96,Senior Data Analyst,4.3,Integrate 4.3,Phoenix,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,39,71,55.0,analyst, AZ
+109,97,Data Scientist,4.5,Demandbase 4.5,San Francisco,201 to 500 employees,Company - Private,Computer Hardware & Software,121,193,157.0,data scientist, CA
+110,98,Data Engineer,3.4,Sapphire Digital 3.4,Lyndhurst,201 to 500 employees,Company - Private,Internet,54,102,78.0,data engineer, NJ
+111,99,Data Scientist,3.7,Takeda Pharmaceuticals 3.7,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,83,144,113.5,data scientist, MA
+112,100,Data Scientist,4.6,<intent> 4.6,New York,51 to 200 employees,Company - Private,Internet,120,160,140.0,data scientist, NY
+113,101,Data Scientist,3.2,Formation 3.2,San Francisco,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,102,163,132.5,data scientist, CA
+114,102,Data Engineer,4.0,Autodesk 4.0,San Francisco,5001 to 10000 employees,Company - Public,Computer Hardware & Software,76,140,108.0,data engineer, CA
+115,103,Ag Data Scientist,4.6,Beck's Hybrids 4.6,Atlanta,501 to 1000 employees,Company - Private,Farm Support Services,60,101,80.5,data scientist, IN
+116,104,Data Scientist,2.8,DrFirst 2.8,Rockville,201 to 500 employees,Company - Private,Health Care Services & Hospitals,82,133,107.5,data scientist, MD
+117,105,Data Engineer,4.7,Object Partners 4.7,Minneapolis,51 to 200 employees,Company - Private,Consulting,65,125,95.0,data engineer, MN
+118,106,Data Scientist II,3.0,L.A. Care Health Plan 3.0,Los Angeles,1001 to 5000 employees,Nonprofit Organization,Health Care Services & Hospitals,91,148,119.5,data scientist, CA
+119,107,Senior Data Engineer,3.2,Red Ventures 3.2,Charlotte,1001 to 5000 employees,Company - Private,Advertising & Marketing,95,173,134.0,data engineer, NC
+120,108,Data Scientist,4.4,Quick Base 4.4,Cambridge,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,77,124,100.5,data scientist, MA
+121,109,Data Scientist,3.5,The E.W. Scripps Company 3.5,Cincinnati,1001 to 5000 employees,Company - Public,TV Broadcast & Cable Networks,80,135,107.5,data scientist, OH
+122,110,Data Engineer,4.0,Upside Business Travel 4.0,Washington,51 to 200 employees,Company - Private,Internet,85,159,122.0,data engineer, DC
+123,111,Data Engineer,4.3,Equity Residential 4.3,Chicago,1001 to 5000 employees,Company - Public,Real Estate,80,105,92.5,data engineer, IL
+124,112,Data Analyst,2.3,Synagro 2.3,Baltimore,501 to 1000 employees,Company - Private,Research & Development,43,81,62.0,analyst, MD
+126,113,Data Scientist,3.6,Accuride International 3.6,Santa Fe Springs,1001 to 5000 employees,Company - Private,Industrial Manufacturing,82,133,107.5,data scientist," Los Angeles, CA"
+127,114,Data Analytics Manager,3.8,Full Potential Solutions 3.8,Kansas City,501 to 1000 employees,Company - Private,Staffing & Outsourcing,26,55,40.5,manager, MO
+128,115,Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,3.7,Visa Inc. 3.7,Ashburn,10000+ employees,Company - Public,IT Services,61,118,89.5,data scientist, VA
+129,116,Data Scientist,4.4,Maven Wave Partners 4.4,Chicago,201 to 500 employees,Company - Private,Consulting,60,102,81.0,data scientist, IL
+130,117,Senior Data Scientist,4.0,Novetta 4.0,Herndon,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,112,182,147.0,data scientist, VA
+131,118,Data Scientist,3.2,"First Command Financial Services, Inc. 3.2",Fort Worth,1001 to 5000 employees,Company - Private,Brokerage Services,64,106,85.0,data scientist, TX
+134,119,Machine Learning Engineer,4.3,Stratagem Group 4.3,Aurora,1 to 50 employees,Company - Private,Aerospace & Defense,72,129,100.5,mle, CO
+135,120,Data Scientist/ML Engineer,3.4,PA Consulting 3.4,New York,1001 to 5000 employees,Company - Private,Consulting,71,123,97.0,data scientist, NY
+136,121,Data Scientist,4.1,ManTech 4.1,Chantilly,5001 to 10000 employees,Company - Public,Research & Development,64,106,85.0,data scientist, VA
+137,122,Customer Data Scientist,4.3,h2o.ai 4.3,Mountain View,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,118,189,153.5,data scientist, CA
+138,123,Data Engineer,5.0,Gridiron IT 5.0,Tampa,51 to 200 employees,Company - Private,IT Services,120,145,132.5,data engineer, FL
+139,124,Data Engineer,4.3,Productive Edge 4.3,Chicago,51 to 200 employees,Company - Private,Computer Hardware & Software,80,120,100.0,data engineer, IL
+140,125,Sr. Data Scientist,3.7,Evolve Vacation Rental 3.7,Denver,201 to 500 employees,Company - Private,Travel Agencies,80,130,105.0,data scientist, CO
+141,126,Data Engineer 4 - Contract,4.2,The Church of Jesus Christ of Latter-day Saints 4.2,Riverton,10000+ employees,Nonprofit Organization,Religious Organizations,59,115,87.0,data engineer, UT
+142,127,Data Analyst - Asset Management,4.3,Maximus Real Estate Partners 4.3,San Francisco,51 to 200 employees,Company - Private,Real Estate,71,136,103.5,analyst, CA
+144,128,Data Scientist - Bioinformatics,3.8,PNNL 3.8,Richland,1001 to 5000 employees,Government,Energy,49,85,67.0,data scientist, WA
+145,129,Data Engineer,3.9,AVANADE 3.9,Washington,10000+ employees,Company - Private,IT Services,60,114,87.0,data engineer, DC
+146,130,Customer Data Scientist/Sales Engineer,4.3,h2o.ai 4.3,Chicago,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,71,204,137.5,data scientist, IL
+147,131,Lead Data Scientist,3.8,PatientPoint 3.8,Cincinnati,201 to 500 employees,Company - Private,Advertising & Marketing,75,125,100.0,data scientist, OH
+148,132,MongoDB Data Engineer II,3.8,BlueCross BlueShield of Tennessee 3.8,Chattanooga,5001 to 10000 employees,Nonprofit Organization,Insurance Carriers,77,136,106.5,data engineer, TN
+149,133,Senior Data Scientist Statistics,3.8,PNNL 3.8,Richland,1001 to 5000 employees,Government,Energy,74,123,98.5,data scientist, WA
+150,134,Senior Data Analyst,4.8,KnowBe4 4.8,Clearwater,501 to 1000 employees,Company - Private,Security Services,44,78,61.0,analyst, FL
+152,135,Data Engineer,3.9,Cogo Labs 3.9,Cambridge,51 to 200 employees,Company - Private,Internet,59,110,84.5,data engineer, MA
+153,136,BI & Platform Analytics Manager,3.4,Church & Dwight 3.4,Ewing,1001 to 5000 employees,Company - Public,Consumer Products Manufacturing,85,134,109.5,manager, NJ
+154,137,Lead Data Scientist,3.6,MassMutual 3.6,Boston,5001 to 10000 employees,Company - Private,Insurance Carriers,124,204,164.0,data scientist, MA
+155,138,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",3.9,Genentech 3.9,South San Francisco,10000+ employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,131,207,169.0,data scientist, CA
+156,139,Senior Data Scientist,3.8,Juniper Networks 3.8,Cupertino,5001 to 10000 employees,Company - Public,Telecommunications Services,110,174,142.0,data scientist, CA
+158,140,"Data Scientist (Actuary, FSA or ASA)",3.8,Legal & General America 3.8,Frederick,501 to 1000 employees,Company - Private,Insurance Carriers,81,133,107.0,data scientist, MD
+159,141,Staff Data Scientist,3.5,Western Digital 3.5,San Jose,10000+ employees,Company - Public,Computer Hardware & Software,132,211,171.5,data scientist, CA
+160,142,Senior Data Scientist / Machine Learning,3.9,Health IQ 3.9,Dallas,201 to 500 employees,Company - Private,Insurance Agencies & Brokerages,73,119,96.0,data scientist, TX
+161,143,Data Scientist - Health Data Analytics,4.2,Nuna 4.2,San Francisco,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,110,175,142.5,data scientist, CA
+162,144,Data Engineer 5 - Contract (Remote),4.2,The Church of Jesus Christ of Latter-day Saints 4.2,Riverton,10000+ employees,Nonprofit Organization,Religious Organizations,74,140,107.0,data engineer, UT
+164,145,Senior Data Analyst,2.9,National Student Clearinghouse 2.9,Herndon,201 to 500 employees,Nonprofit Organization,Colleges & Universities,43,80,61.5,analyst, VA
+166,146,"Risk and Analytics IT, Data Scientist",2.7,State of Wisconsin Investment Board 2.7,Madison,51 to 200 employees,Government,Investment Banking & Asset Management,91,149,120.0,data scientist, WI
+168,147,Senior Data Scientist,4.0,Autodesk 4.0,San Francisco,5001 to 10000 employees,Company - Public,Computer Hardware & Software,116,185,150.5,data scientist, CA
+169,148,Analytics Manager,4.3,OneMagnify 4.3,Dearborn,201 to 500 employees,Company - Private,Advertising & Marketing,59,116,87.5,manager, MI
+170,149,Data Engineer,4.2,IZEA 4.2,Winter Park,51 to 200 employees,Company - Public,Advertising & Marketing,48,95,71.5,data engineer, FL
+171,150,Digital Marketing & ECommerce Data Analyst,3.6,Vionic Group 3.6,San Rafael,51 to 200 employees,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",31,72,51.5,analyst, CA
+173,151,Senior Data Analyst,2.8,Dodge Data & Analytics 2.8,Hamilton,201 to 500 employees,Company - Private,IT Services,55,100,77.5,analyst, NJ
+175,152,Senior Data Scientist,3.3,Plymouth Rock Assurance 3.3,Woodbridge,1001 to 5000 employees,Company - Private,Insurance Carriers,73,124,98.5,data scientist, NJ
+176,153,Principal Data Scientist with over 10 years experience,-1.0,CA-One Tech Cloud,San Francisco,51 to 200 employees,Company - Private,IT Services,200,250,225.0,data scientist, CA
+179,154,Sr. Data Scientist II,3.4,Argo Group US 3.4,New York,1001 to 5000 employees,Company - Public,Insurance Carriers,111,183,147.0,data scientist, NY
+180,155,Excel / VBA / SQL Data Analyst,4.1,Associated Electric Cooperative 4.1,Springfield,501 to 1000 employees,Company - Private,Energy,44,78,61.0,analyst, MO
+181,156,Machine Learning Research Scientist,2.6,Software Engineering Institute 2.6,Pittsburgh,501 to 1000 employees,College / University,Colleges & Universities,81,159,120.0,mle, PA
+183,157,Senior Data Scientist,3.9,Zest AI 3.9,Burbank,51 to 200 employees,Company - Private,Financial Analytics & Research,114,182,148.0,data scientist, CA
+184,158,Radar Data Analyst,4.7,DECISIVE ANALYTICS Corporation 4.7,Huntsville,51 to 200 employees,Company - Private,Aerospace & Defense,42,76,59.0,analyst, AL
+185,159,PL Actuarial-Lead Data Scientist,3.7,The Hanover Insurance Group 3.7,Worcester,5001 to 10000 employees,Company - Public,Insurance Carriers,114,179,146.5,data scientist, MA
+187,160,Senior Data & Machine Learning Scientist,3.0,Tempus Labs 3.0,Chicago,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,100,166,133.0,mle, IL
+188,161,Principal Data Scientist (Computational Chemistry),4.7,Recursion Pharmaceuticals 4.7,Salt Lake City,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,108,173,140.5,data scientist, UT
+189,162,Data Engineer,3.7,P2 Energy Solutions 3.7,Lafayette,501 to 1000 employees,Company - Private,Computer Hardware & Software,48,93,70.5,data engineer, LA
+193,163,Staff Machine Learning Engineer,3.9,Tapjoy 3.9,San Francisco,201 to 500 employees,Company - Private,Internet,138,224,181.0,mle, CA
+195,164,Lead Data Engineer,4.1,Credit Sesame 4.1,Mountain View,51 to 200 employees,Company - Private,Internet,190,220,205.0,data engineer, CA
+196,165,Marketing Data Analyst,3.6,San Manuel Casino 3.6,Highland,1001 to 5000 employees,Company - Private,Gambling,35,62,48.5,analyst, CA
+199,166,Senior Research Scientist-Machine Learning,2.6,Software Engineering Institute 2.6,Pittsburgh,501 to 1000 employees,College / University,Colleges & Universities,81,167,124.0,mle, PA
+200,167,Analytics Manager - Data Mart,3.5,Central California Alliance for Health 3.5,Scotts Valley,501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,42,86,64.0,manager, CA
+201,168,Sr. Data Engineer - Contract-to-Hire (Java),3.0,Pilot Flying J Travel Centers LLC 3.0,Knoxville,10000+ employees,Company - Private,Gas Stations,69,127,98.0,data engineer, TN
+205,169,Sr. Data Engineer,3.4,Echo Global Logistics 3.4,Chicago,1001 to 5000 employees,Company - Public,Transportation Management,75,140,107.5,data engineer, IL
+206,170,Data Scientist - Quantitative,3.8,Truckstop.com 3.8,Chicago,501 to 1000 employees,Company - Private,Logistics & Supply Chain,86,139,112.5,data scientist, IL
+207,171,Data Scientist,3.7,Lockheed Martin 3.7,Herndon,10000+ employees,Company - Public,Aerospace & Defense,66,112,89.0,data scientist, VA
+208,172,Senior Research Statistician- Data Scientist,4.8,Acuity Insurance 4.8,Sheboygan,1001 to 5000 employees,Company - Private,Insurance Carriers,76,125,100.5,data scientist, WI
+209,173,"Business Data Analyst, SQL",3.8,Fareportal 3.8,New York,1001 to 5000 employees,Company - Private,Travel Agencies,44,86,65.0,analyst, NY
+211,174,Data Scientist,4.3,Credera 4.3,Dallas,201 to 500 employees,Subsidiary or Business Segment,Consulting,53,92,72.5,data scientist, TX
+212,175,Senior Data Analyst,4.8,KnowBe4 4.8,Clearwater,501 to 1000 employees,Company - Private,Security Services,44,78,61.0,analyst, FL
+213,176,BI & Platform Analytics Manager,3.4,Church & Dwight 3.4,Ewing,1001 to 5000 employees,Company - Public,Consumer Products Manufacturing,85,134,109.5,manager, NJ
+214,177,Data Engineer,3.9,Cogo Labs 3.9,Cambridge,51 to 200 employees,Company - Private,Internet,59,110,84.5,data engineer, MA
+215,178,Data Scientist,3.4,Spectrum Communications and Consulting 3.4,Chicago,51 to 200 employees,Company - Private,Advertising & Marketing,64,111,87.5,data scientist, IL
+216,179,Data Analyst,3.1,NCSOFT 3.1,San Mateo,1001 to 5000 employees,Company - Public,Video Games,65,120,92.5,analyst, CA
+217,180,Associate Data Scientist/Computer Scientist,3.2,MITRE 3.2,McLean,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,60,103,81.5,data scientist, VA
+218,181,Business Intelligence Analyst / Developer,4.3,"Dayton Freight Lines, Inc. 4.3",Dayton,1001 to 5000 employees,Company - Private,Trucking,53,105,79.0,analyst, OH
+219,182,Lead Data Scientist,3.6,MassMutual 3.6,Boston,5001 to 10000 employees,Company - Private,Insurance Carriers,124,204,164.0,data scientist, MA
+220,183,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",3.9,Genentech 3.9,South San Francisco,10000+ employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,131,207,169.0,data scientist, CA
+221,184,Senior Data Scientist,3.8,Juniper Networks 3.8,Cupertino,5001 to 10000 employees,Company - Public,Telecommunications Services,110,174,142.0,data scientist, CA
+222,185,Data Analyst,2.8,Community Action Partnership of San Luis Obispo 2.8,Parlier,501 to 1000 employees,Nonprofit Organization,Social Assistance,33,62,47.5,analyst, CA
+224,186,Data Analyst,3.4,TrueAccord 3.4,San Francisco,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,48,90,69.0,analyst, CA
+225,187,Data Analyst,4.0,DRB Systems 4.0,Meridian,201 to 500 employees,Company - Private,Computer Hardware & Software,34,64,49.0,analyst, ID
+226,188,Staff Data Scientist,3.5,Western Digital 3.5,San Jose,10000+ employees,Company - Public,Computer Hardware & Software,132,211,171.5,data scientist, CA
+227,189,"Data Scientist (Actuary, FSA or ASA)",3.8,Legal & General America 3.8,Frederick,501 to 1000 employees,Company - Private,Insurance Carriers,81,133,107.0,data scientist, MD
+228,190,System and Data Analyst,3.7,Corcentric 3.7,Cherry Hill,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,42,76,59.0,analyst, NJ
+229,191,Data Scientist,3.5,U.Group 3.5,Indianapolis,201 to 500 employees,Company - Private,IT Services,66,111,88.5,data scientist, IN
+230,192,Data Engineer 5 - Contract (Remote),4.2,The Church of Jesus Christ of Latter-day Saints 4.2,Riverton,10000+ employees,Nonprofit Organization,Religious Organizations,74,140,107.0,data engineer, UT
+231,193,Digital Health Data Scientist,4.0,Pfizer 4.0,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,63,110,86.5,data scientist, MA
+232,194,Data Scientist,4.3,SMC 3 4.3,Louisville,51 to 200 employees,Nonprofit Organization,Logistics & Supply Chain,63,105,84.0,data scientist, KY
+235,195,Data Engineer,4.4,Eventbrite 4.4,Nashville,1001 to 5000 employees,Company - Public,Internet,62,114,88.0,data engineer, TN
+236,196,Big Data Engineer - Chicago - Future Opportunity,4.1,Centro 4.1,Chicago,501 to 1000 employees,Company - Private,Internet,71,129,100.0,data engineer, IL
+237,197,Senior Data Analyst,2.9,National Student Clearinghouse 2.9,Herndon,201 to 500 employees,Nonprofit Organization,Colleges & Universities,43,80,61.5,analyst, VA
+238,198,Data Scientist,2.5,comScore 2.5,Portland,1001 to 5000 employees,Company - Public,Advertising & Marketing,74,119,96.5,data scientist, OR
+239,199,Survey Data Analyst,4.2,SullivanCotter 4.2,Minneapolis,201 to 500 employees,Company - Private,Consulting,55,97,76.0,analyst, MN
+240,200,Data Scientist,3.9,NPD 3.9,Port Washington,1001 to 5000 employees,Company - Private,Research & Development,15,16,15.5,data scientist, NY
+241,201,Data Scientist,4.3,Bakery Agency 4.3,Austin,1 to 50 employees,Company - Private,Advertising & Marketing,61,106,83.5,data scientist, TX
+242,202,"Risk and Analytics IT, Data Scientist",2.7,State of Wisconsin Investment Board 2.7,Madison,51 to 200 employees,Government,Investment Banking & Asset Management,91,149,120.0,data scientist, WI
+243,203,Data Scientist,3.9,Genentech 3.9,South San Francisco,10000+ employees,Subsidiary or Business Segment,Biotech & Pharmaceuticals,127,199,163.0,data scientist, CA
+244,204,Lead Health Data Analyst - Front End,3.4,Blue Cross & Blue Shield of Rhode Island 3.4,Providence,501 to 1000 employees,Nonprofit Organization,Insurance Carriers,74,126,100.0,analyst, RI
+247,205,Junior Data Analyst,3.3,The HSC Health Care System 3.3,Washington,501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,37,63,50.0,analyst, DC
+248,206,SQL Data Engineer,3.4,Pro-Sphere Tek 3.4,Austin,201 to 500 employees,Company - Private,Consulting,67,119,93.0,data engineer, TX
+249,207,Data Scientist,3.0,Ameritas Life Insurance Corp 3.0,Cincinnati,1001 to 5000 employees,Company - Private,Insurance Agencies & Brokerages,72,117,94.5,data scientist, OH
+250,208,Senior Data Scientist,4.0,Autodesk 4.0,San Francisco,5001 to 10000 employees,Company - Public,Computer Hardware & Software,116,185,150.5,data scientist, CA
+251,209,Data Scientist,3.7,Genworth 3.7,Raleigh,1001 to 5000 employees,Company - Public,Insurance Carriers,78,126,102.0,data scientist, NC
+253,210,Analytics Manager,4.3,OneMagnify 4.3,Dearborn,201 to 500 employees,Company - Private,Advertising & Marketing,59,116,87.5,manager, MI
+254,211,Clinical Data Scientist,4.0,Pfizer 4.0,Groton,10000+ employees,Company - Public,Biotech & Pharmaceuticals,63,105,84.0,data scientist, CT
+255,212,Data Scientist,4.0,Novetta 4.0,Herndon,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,109,177,143.0,data scientist, VA
+256,213,"Sr. Data Scientist, Cyber-Security LT Contract",3.2,"Numeric, LLC 3.2",Phila,1 to 50 employees,Company - Private,Staffing & Outsourcing,116,194,155.0,data scientist, PA
+257,214,Data Engineer,4.2,IZEA 4.2,Winter Park,51 to 200 employees,Company - Public,Advertising & Marketing,48,95,71.5,data engineer, FL
+258,215,Data Scientist,3.9,Trace Data 3.9,Oakland,51 to 200 employees,Company - Private,Insurance Carriers,83,133,108.0,data scientist, CA
+260,216,Digital Marketing & ECommerce Data Analyst,3.6,Vionic Group 3.6,San Rafael,51 to 200 employees,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",31,72,51.5,analyst, CA
+262,217,Senior Data Analyst,2.8,Dodge Data & Analytics 2.8,Hamilton,201 to 500 employees,Company - Private,IT Services,55,100,77.5,analyst, NJ
+263,218,Insurance Financial Data Analyst,4.2,Clearwater Analytics 4.2,Boise,501 to 1000 employees,Company - Private,Investment Banking & Asset Management,45,82,63.5,analyst, ID
+264,219,Data Scientist,4.0,"Tekvalley, Corp. 4.0",San Francisco,1 to 50 employees,Company - Private,IT Services,83,135,109.0,data scientist, CA
+265,220,Data Scientist,3.5,BWX Technologies 3.5,Oak Ridge,5001 to 10000 employees,Company - Public,Aerospace & Defense,70,122,96.0,data scientist, TN
+266,221,Principal Data Scientist with over 10 years experience,-1.0,CA-One Tech Cloud,San Francisco,51 to 200 employees,Company - Private,IT Services,200,250,225.0,data scientist, CA
+267,222,Data Engineer,3.2,PennyMac 3.2,Agoura Hills,1001 to 5000 employees,Company - Public,Lending,70,132,101.0,data engineer, CA
+268,223,Senior Data Scientist,3.3,Plymouth Rock Assurance 3.3,Woodbridge,1001 to 5000 employees,Company - Private,Insurance Carriers,73,124,98.5,data scientist, NJ
+269,224,Data Engineer I - Azure,3.9,Vermeer 3.9,Pella,1001 to 5000 employees,Company - Private,Industrial Manufacturing,54,101,77.5,data engineer, IA
+272,225,Sr. Data Scientist II,3.4,Argo Group US 3.4,New York,1001 to 5000 employees,Company - Public,Insurance Carriers,111,183,147.0,data scientist, NY
+273,226,Data Scientist,3.5,L&T Infotech 3.5,San Ramon,10000+ employees,Company - Public,IT Services,68,112,90.0,data scientist, CA
+274,227,Information Security Data Analyst,4.3,OceanFirst Financial 4.3,Red Bank,501 to 1000 employees,Company - Public,Banks & Credit Unions,42,74,58.0,analyst, NJ
+275,228,Excel / VBA / SQL Data Analyst,4.1,Associated Electric Cooperative 4.1,Springfield,501 to 1000 employees,Company - Private,Energy,44,78,61.0,analyst, MO
+276,229,Machine Learning Research Scientist,2.6,Software Engineering Institute 2.6,Pittsburgh,501 to 1000 employees,College / University,Colleges & Universities,81,159,120.0,mle, PA
+277,230,Data Scientist,3.6,Sotheby's 3.6,New York,1001 to 5000 employees,Company - Public,Auctions & Galleries,95,161,128.0,data scientist, NY
+278,231,Data Scientist,3.5,First Tech Federal Credit Union 3.5,Hillsboro,1001 to 5000 employees,Company - Private,Banks & Credit Unions,75,124,99.5,data scientist, OR
+279,232,Data Scientist,3.6,Amrock 3.6,Detroit,1001 to 5000 employees,Company - Private,Real Estate,72,120,96.0,data scientist, MI
+280,233,Data Scientist,2.3,Vanda Pharmaceuticals 2.3,Washington,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,76,126,101.0,data scientist, DC
+281,234,Senior Data Scientist,3.9,Zest AI 3.9,Burbank,51 to 200 employees,Company - Private,Financial Analytics & Research,114,182,148.0,data scientist, CA
+282,235,"Data Scientist, Senior",4.0,Novetta 4.0,Fort Belvoir,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,108,176,142.0,data scientist, VA
+283,236,Senior Data Scientist,4.1,CK-12 Foundation 4.1,Palo Alto,1 to 50 employees,Company - Private,K-12 Education,130,208,169.0,data scientist, CA
+285,237,Radar Data Analyst,4.7,DECISIVE ANALYTICS Corporation 4.7,Huntsville,51 to 200 employees,Company - Private,Aerospace & Defense,42,76,59.0,analyst, AL
+287,238,Data Engineer,4.6,Applied Information Sciences 4.6,Houston,501 to 1000 employees,Company - Private,IT Services,52,99,75.5,data engineer, TX
+288,239,Senior Data Scientist,3.7,Swiss Re 3.7,Armonk,10000+ employees,Company - Public,Insurance Agencies & Brokerages,105,173,139.0,data scientist, NY
+289,240,"Data Engineer, Data Engineering and Artifical Intelligence",3.7,Takeda Pharmaceuticals 3.7,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,71,134,102.5,data engineer, MA
+291,241,PL Actuarial-Lead Data Scientist,3.7,The Hanover Insurance Group 3.7,Worcester,5001 to 10000 employees,Company - Public,Insurance Carriers,114,179,146.5,data scientist, MA
+293,242,Sr. Data Analyst,3.6,MassMutual 3.6,Springfield,5001 to 10000 employees,Company - Private,Insurance Carriers,60,102,81.0,analyst, MA
+294,243,Senior Data & Machine Learning Scientist,3.0,Tempus Labs 3.0,Chicago,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,100,166,133.0,mle, IL
+295,244,Program/Data Analyst,3.4,General Dynamics Information Technology 3.4,Washington,10000+ employees,Subsidiary or Business Segment,IT Services,55,99,77.0,analyst, DC
+296,245,Data Engineer,4.1,ManTech 4.1,Herndon,5001 to 10000 employees,Company - Public,Research & Development,67,117,92.0,data engineer, VA
+297,246,Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,3.8,Novartis 3.8,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,92,150,121.0,data scientist, MA
+298,247,"Principal Data Engineer, Data Platform & Insights",4.0,Autodesk 4.0,San Francisco,5001 to 10000 employees,Company - Public,Computer Hardware & Software,116,209,162.5,data engineer, CA
+301,248,Big Data Engineer,4.4,SpringML 4.4,Indianapolis,1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,62,119,90.5,data engineer, IN
+302,249,Data Scientist / Machine Learning Expert,3.8,Novartis 3.8,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,86,143,114.5,data scientist, MA
+303,250,Data Scientist,3.8,Juniper Networks 3.8,Sunnyvale,5001 to 10000 employees,Company - Public,Telecommunications Services,93,149,121.0,data scientist, CA
+304,251,Senior Data Scientist,2.2,The Integer Group 2.2,Dallas,501 to 1000 employees,Subsidiary or Business Segment,Advertising & Marketing,84,136,110.0,data scientist, TX
+306,252,Clinical Data Analyst,4.1,ManTech 4.1,Portsmouth,5001 to 10000 employees,Company - Public,Research & Development,52,89,70.5,analyst, VA
+307,253,Data Engineer,3.7,P2 Energy Solutions 3.7,Lafayette,501 to 1000 employees,Company - Private,Computer Hardware & Software,48,93,70.5,data engineer, LA
+308,254,Computational Chemist/Data Scientist,3.8,PNNL 3.8,Richland,1001 to 5000 employees,Government,Energy,56,97,76.5,data scientist, WA
+309,255,Data Engineer,3.6,MassMutual 3.6,Springfield,5001 to 10000 employees,Company - Private,Insurance Carriers,65,119,92.0,data engineer, MA
+310,256,Principal Data Scientist (Computational Chemistry),4.7,Recursion Pharmaceuticals 4.7,Salt Lake City,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,108,173,140.5,data scientist, UT
+314,257,Data Scientist,3.3,Samba TV 3.3,San Francisco,201 to 500 employees,Company - Private,Advertising & Marketing,127,202,164.5,data scientist, CA
+315,258,Market Data Analyst,3.4,SV Microwave 3.4,West Palm Beach,201 to 500 employees,Company - Public,Telecommunications Manufacturing,31,57,44.0,analyst, FL
+317,259,Data Engineer,4.4,SpringML 4.4,Herndon,1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,75,143,109.0,data engineer, VA
+318,260,Staff Data Engineer,3.8,Sumo Logic 3.8,Austin,501 to 1000 employees,Company - Private,Computer Hardware & Software,105,194,149.5,data engineer, TX
+319,261,Associate Data Engineer,3.5,EAB 3.5,Washington,1001 to 5000 employees,Company - Private,Research & Development,45,86,65.5,data engineer, DC
+320,262,Senior Data Scientist,3.5,Brighthouse Financial 3.5,Charlotte,1001 to 5000 employees,Company - Public,Insurance Carriers,95,154,124.5,data scientist, NC
+321,263,Staff BI and Data Engineer,2.9,Affinity Solutions 2.9,San Jose,51 to 200 employees,Company - Private,Advertising & Marketing,80,148,114.0,data engineer, CA
+322,264,Marketing Data Analyst,3.9,Citadel Federal Credit Union 3.9,Exton,501 to 1000 employees,Nonprofit Organization,Banks & Credit Unions,36,62,49.0,analyst, PA
+324,265,Data Analyst,3.7,CALIBRE Systems 3.7,Alexandria,501 to 1000 employees,Company - Private,IT Services,50,92,71.0,analyst, VA
+325,266,"Director - Data, Privacy and AI Governance",3.6,MassMutual 3.6,Boston,5001 to 10000 employees,Company - Private,Insurance Carriers,67,135,101.0,director, MA
+326,267,Data Scientist,3.5,Esri 3.5,Redlands,1001 to 5000 employees,Company - Private,Computer Hardware & Software,82,132,107.0,data scientist, CA
+327,268,Data Scientist,4.7,New England Biolabs 4.7,Ipswich,201 to 500 employees,Company - Private,Biotech & Pharmaceuticals,85,140,112.5,data scientist, MA
+328,269,Staff Machine Learning Engineer,3.9,Tapjoy 3.9,San Francisco,201 to 500 employees,Company - Private,Internet,138,224,181.0,mle, CA
+329,270,Information Security Data Analyst,3.7,Motorola Solutions 3.7,Chicago,10000+ employees,Company - Public,Computer Hardware & Software,42,80,61.0,analyst, IL
+330,271,Lead Data Engineer,4.1,Credit Sesame 4.1,Mountain View,51 to 200 employees,Company - Private,Internet,190,220,205.0,data engineer, CA
+332,272,Data Analytics Project Manager,3.6,MassMutual 3.6,Springfield,5001 to 10000 employees,Company - Private,Insurance Carriers,34,92,63.0,manager, MA
+334,273,Data Engineer,3.5,Alignment Healthcare 3.5,Orange,501 to 1000 employees,Company - Private,Health Care Services & Hospitals,65,124,94.5,data engineer, CA
+335,274,Marketing Data Analyst,3.6,San Manuel Casino 3.6,Highland,1001 to 5000 employees,Company - Private,Gambling,35,62,48.5,analyst, CA
+338,275,Machine Learning Engineer - Regulatory,3.7,Cboe Global Markets 3.7,Lenexa,501 to 1000 employees,Company - Public,Stock Exchanges,61,113,87.0,mle, KS
+340,276,Data Engineer,3.2,Guidepoint 3.2,New York,501 to 1000 employees,Company - Private,Research & Development,43,86,64.5,data engineer, NY
+342,277,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",3.7,Takeda Pharmaceuticals 3.7,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,113,196,154.5,data engineer, MA
+343,278,Senior Research Scientist-Machine Learning,2.6,Software Engineering Institute 2.6,Pittsburgh,501 to 1000 employees,College / University,Colleges & Universities,81,167,124.0,mle, PA
+344,279,Senior Data Scientist,4.4,Maven Wave Partners 4.4,Chicago,201 to 500 employees,Company - Private,Consulting,97,160,128.5,data scientist, IL
+346,280,Analytics Manager - Data Mart,3.5,Central California Alliance for Health 3.5,Scotts Valley,501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,42,86,64.0,manager, CA
+347,281,Sr. Data Engineer - Contract-to-Hire (Java),3.0,Pilot Flying J Travel Centers LLC 3.0,Knoxville,10000+ employees,Company - Private,Gas Stations,69,127,98.0,data engineer, TN
+348,282,Data Scientist - Algorithms & Inference,4.2,Nuna 4.2,San Francisco,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,110,175,142.5,data scientist, CA
+349,283,Senior Data Scientist - R&D Oncology,3.9,AstraZeneca 3.9,New York,10000+ employees,Company - Public,Biotech & Pharmaceuticals,102,172,137.0,data scientist, NY
+350,284,Data Engineer,4.0,Pinnacol Assurance 4.0,Denver,501 to 1000 employees,Nonprofit Organization,Insurance Carriers,74,124,99.0,data engineer, CO
+352,285,Senior Data Scientist,4.4,MathWorks 4.4,Natick,1001 to 5000 employees,Company - Private,Computer Hardware & Software,108,171,139.5,data scientist, MA
+353,286,Data Engineer,3.4,MetroStar Systems 3.4,Rockville,201 to 500 employees,Company - Private,IT Services,76,142,109.0,data engineer, MD
+354,287,"Director II, Data Science - GRM Actuarial",3.3,Liberty Mutual Insurance 3.3,Chicago,10000+ employees,Company - Private,Insurance Carriers,202,306,254.0,director, IL
+359,288,Associate Data Analyst- Graduate Development Program,3.3,National Interstate 3.3,Richfield,501 to 1000 employees,Company - Private,Insurance Carriers,32,59,45.5,analyst, OH
+360,289,Sr. Data Engineer,4.5,Moser Consulting 4.5,Indianapolis,51 to 200 employees,Company - Private,Consulting,87,158,122.5,data engineer, IN
+361,290,Senior Insurance Data Scientist,3.9,TransUnion 3.9,Chicago,5001 to 10000 employees,Company - Public,Financial Analytics & Research,107,173,140.0,data scientist, IL
+366,291,Revenue Analytics Manager,4.8,HOVER 4.8,San Francisco,51 to 200 employees,Company - Private,Computer Hardware & Software,45,78,61.5,manager, CA
+369,292,IT - Data Engineer II,3.4,Arbella Insurance 3.4,Quincy,1001 to 5000 employees,Company - Private,Insurance Carriers,61,119,90.0,data engineer, MA
+372,293,Data Scientist,3.8,Zimmerman Advertising 3.8,Fort Lauderdale,501 to 1000 employees,Subsidiary or Business Segment,Advertising & Marketing,68,114,91.0,data scientist, FL
+373,294,Data Scientist,5.0,BPA Services 5.0,Washington,Unknown,Company - Private,Enterprise Software & Network Solutions,150,160,155.0,data scientist, DC
+375,295,"Senior Manager, Epidemiologic Data Scientist",4.0,Pfizer 4.0,New York,10000+ employees,Company - Public,Biotech & Pharmaceuticals,125,210,167.5,data scientist, NY
+376,296,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,3.8,Associated Banc-Corp 3.8,Green Bay,1001 to 5000 employees,Company - Public,Banks & Credit Unions,43,77,60.0,analyst, WI
+377,297,Lead Data Scientist,3.9,Zest AI 3.9,Burbank,51 to 200 employees,Company - Private,Financial Analytics & Research,139,221,180.0,data scientist, CA
+378,298,"Marketing Data Analyst, May 2020 Undergrad",3.8,Fareportal 3.8,New York,1001 to 5000 employees,Company - Private,Travel Agencies,44,86,65.0,analyst, NY
+379,299,Senior Data Engineer,4.3,Genesys 4.3,Durham,5001 to 10000 employees,Company - Private,Computer Hardware & Software,78,147,112.5,data engineer, NC
+380,300,Senior Data Analyst,1.9,Moda Operandi 1.9,New York,201 to 500 employees,Company - Private,"Department, Clothing, & Shoe Stores",65,110,87.5,analyst, NY
+384,301,Sr Data Engineer (Sr BI Developer),3.4,Tivity Health 3.4,Chandler,501 to 1000 employees,Company - Public,Health Care Services & Hospitals,90,110,100.0,data engineer, AZ
+385,302,Data Engineer,4.4,BRMi 4.4,Chantilly,51 to 200 employees,Company - Private,IT Services,61,109,85.0,data engineer, VA
+386,303,Senior LiDAR Data Scientist,3.9,Luminar Technologies 3.9,Orlando,201 to 500 employees,Company - Private,Computer Hardware & Software,93,151,122.0,data scientist, FL
+389,304,Senior Data Engineer,4.7,Praetorian 4.7,Austin,51 to 200 employees,Company - Private,Security Services,97,180,138.5,data engineer, TX
+390,305,Managing Data Scientist/ML Engineer,3.4,PA Consulting 3.4,Boston,1001 to 5000 employees,Company - Private,Consulting,81,134,107.5,data scientist, MA
+394,306,Sr. Data Engineer,3.4,Echo Global Logistics 3.4,Chicago,1001 to 5000 employees,Company - Public,Transportation Management,75,140,107.5,data engineer, IL
+395,307,Lead Big Data Engineer,4.0,Glassdoor 4.0,San Francisco,1001 to 5000 employees,Company - Private,Internet,121,203,162.0,data engineer, CA
+397,308,Sr Software Engineer (Data Scientist),3.4,Assurant 3.4,Westlake,10000+ employees,Company - Public,Insurance Carriers,81,140,110.5,data scientist, OH
+398,309,College Hire - Data Scientist - Open to December 2019 Graduates,3.7,Caterpillar 3.7,Peoria,10000+ employees,Company - Public,Industrial Manufacturing,63,99,81.0,data scientist, IL
+399,310,Senior Data Scientist,4.3,Equity Residential 4.3,Chicago,1001 to 5000 employees,Company - Public,Real Estate,110,150,130.0,data scientist, IL
+400,311,Sr. Data Engineer (ETL Developer),3.7,F&G 3.7,Des Moines,201 to 500 employees,Subsidiary or Business Segment,Insurance Carriers,83,148,115.5,data engineer, IA
+401,312,Senior Data Scientist Artificial Intelligence,3.8,PNNL 3.8,Richland,1001 to 5000 employees,Government,Energy,60,101,80.5,data scientist, WA
+402,313,Analytics - Business Assurance Data Analyst,4.6,GreatAmerica Financial Services 4.6,Cedar Rapids,501 to 1000 employees,Company - Private,Lending,31,55,43.0,analyst, IA
+403,314,"Associate Director/Director, Safety Scientist",4.4,Acceleron Pharma 4.4,Cambridge,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,102,178,140.0,director, MA
+405,315,Data Analyst Senior,3.0,AmeriHealth Caritas 3.0,Philadelphia,5001 to 10000 employees,Company - Private,Insurance Carriers,48,85,66.5,analyst, PA
+406,316,Lead Data Engineer (Python),4.7,Strategic Employment Partners 4.7,San Francisco,51 to 200 employees,Company - Private,Staffing & Outsourcing,66,123,94.5,data engineer, CA
+407,317,Senior Data Scientist 4 Artificial Intelligence,3.8,PNNL 3.8,Seattle,1001 to 5000 employees,Government,Energy,92,146,119.0,data scientist, WA
+409,318,"Senior Operations Data Analyst, Call Center Operations",2.7,FLEETCOR 2.7,Nashville,5001 to 10000 employees,Company - Public,Financial Transaction Processing,20,34,13.5,analyst, TN
+410,319,"Director II, Data Science - GRS Predictive Analytics",3.3,Liberty Mutual Insurance 3.3,Chicago,10000+ employees,Company - Private,Insurance Carriers,150,239,194.5,director, IL
+412,320,Geospatial Software Developer and Data Scientist,3.7,Applied Research Laboratories 3.7,Austin,501 to 1000 employees,College / University,Colleges & Universities,82,129,105.5,data scientist, TX
+414,321,Systems Engineer II - Data Analyst,3.7,Raytheon 3.7,Huntsville,10000+ employees,Company - Public,Aerospace & Defense,49,76,62.5,analyst, AL
+416,322,Director Data Science,3.6,TRANZACT 3.6,Fort Lee,1001 to 5000 employees,Company - Private,Advertising & Marketing,124,199,161.5,director, NJ
+417,323,Sr Data Analyst - IT,2.1,United BioSource 2.1,Blue Bell,1001 to 5000 employees,Other Organization,Biotech & Pharmaceuticals,52,93,72.5,analyst, PA
+418,324,Senior Data Engineer,3.9,Figure Eight 3.9,San Francisco,51 to 200 employees,Company - Public,Computer Hardware & Software,97,181,139.0,data engineer, CA
+419,325,Senior Data Engineer,3.9,Tapjoy 3.9,San Francisco,201 to 500 employees,Company - Private,Internet,100,173,136.5,data engineer, CA
+420,326,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,3.8,Fareportal 3.8,New York,1001 to 5000 employees,Company - Private,Travel Agencies,53,96,74.5,data scientist, NY
+422,327,Data Scientist,3.5,Sartorius 3.5,Albuquerque,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,56,95,75.5,data scientist, NM
+423,328,Data Scientist,4.7,1904labs 4.7,Saint Louis,51 to 200 employees,Company - Private,IT Services,111,176,143.5,data scientist, MO
+424,329,Data Scientist,5.0,Royce Geospatial 5.0,Springfield,51 to 200 employees,Company - Private,Aerospace & Defense,75,127,101.0,data scientist, VA
+425,330,Data Engineer,3.6,MassMutual 3.6,Springfield,5001 to 10000 employees,Company - Private,Insurance Carriers,65,119,92.0,data engineer, MA
+426,331,Computational Chemist/Data Scientist,3.8,PNNL 3.8,Richland,1001 to 5000 employees,Government,Energy,56,97,76.5,data scientist, WA
+427,332,Principal Data Scientist (Computational Chemistry),4.7,Recursion Pharmaceuticals 4.7,Salt Lake City,51 to 200 employees,Company - Private,Biotech & Pharmaceuticals,108,173,140.5,data scientist, UT
+428,333,Data Scientist,3.6,Citi 3.6,Jersey City,10000+ employees,Company - Public,Investment Banking & Asset Management,94,139,116.5,data scientist, NJ
+429,334,Principal Machine Learning Scientist,4.7,Sage Intacct 4.7,San Francisco,501 to 1000 employees,Subsidiary or Business Segment,Computer Hardware & Software,176,289,232.5,mle, CA
+430,335,Data Scientist,3.5,Scale AI 3.5,San Francisco,51 to 200 employees,Company - Private,Enterprise Software & Network Solutions,92,149,120.5,data scientist, CA
+433,336,Data Scientist,2.7,Change Healthcare 2.7,Emeryville,10000+ employees,Company - Public,IT Services,118,188,153.0,data scientist, CA
+434,337,Data Scientist,3.4,MZ 3.4,Palo Alto,501 to 1000 employees,Company - Private,Internet,108,146,127.0,data scientist, CA
+435,338,Data Scientist,4.7,HG Insights 4.7,Santa Barbara,51 to 200 employees,Company - Private,Computer Hardware & Software,65,106,85.5,data scientist, CA
+436,339,Data Scientist,2.8,"1-800-FLOWERS.COM, Inc. 2.8",Carle Place,1001 to 5000 employees,Company - Public,Wholesale,55,98,76.5,data scientist, NY
+437,340,Data Scientist,3.5,CBS Interactive 3.5,New York,1001 to 5000 employees,Subsidiary or Business Segment,TV Broadcast & Cable Networks,94,162,128.0,data scientist, NY
+438,341,Data Engineer,3.2,"Numeric, LLC 3.2",King of Prussia,1 to 50 employees,Company - Private,Staffing & Outsourcing,63,120,91.5,data engineer, PA
+440,342,Data Scientist,3.3,Samba TV 3.3,San Francisco,201 to 500 employees,Company - Private,Advertising & Marketing,127,202,164.5,data scientist, CA
+442,343,Market Data Analyst,3.4,SV Microwave 3.4,West Palm Beach,201 to 500 employees,Company - Public,Telecommunications Manufacturing,31,57,44.0,analyst, FL
+443,344,Staff Data Engineer,3.8,Sumo Logic 3.8,Austin,501 to 1000 employees,Company - Private,Computer Hardware & Software,105,194,149.5,data engineer, TX
+444,345,Associate Data Engineer,3.5,EAB 3.5,Washington,1001 to 5000 employees,Company - Private,Research & Development,45,86,65.5,data engineer, DC
+445,346,Data Engineer,4.4,SpringML 4.4,Herndon,1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,75,143,109.0,data engineer, VA
+446,347,Staff Data Engineer,3.7,Samsung Research America 3.7,Mountain View,1001 to 5000 employees,Subsidiary or Business Segment,Computer Hardware & Software,126,228,177.0,data engineer, CA
+447,348,Data Scientist,4.7,Systems & Technology Research 4.7,Arlington,201 to 500 employees,Company - Private,Aerospace & Defense,80,134,107.0,data scientist, VA
+448,349,Data Scientist,4.1,Netskope 4.1,Santa Clara,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,120,189,154.5,data scientist, CA
+449,350,Data Scientist,4.0,Lorven Technologies Inc 4.0,Santa Clara,1 to 50 employees,Company - Private,Accounting,85,142,113.5,data scientist, CA
+450,351,Senior Data Scientist,3.5,Brighthouse Financial 3.5,Charlotte,1001 to 5000 employees,Company - Public,Insurance Carriers,95,154,124.5,data scientist, NC
+451,352,Data Scientist,2.5,CareDx 2.5,Brisbane,1 to 50 employees,Company - Private,Biotech & Pharmaceuticals,111,176,143.5,data scientist, CA
+452,353,Data Scientist,3.9,Serigor Inc. 3.9,San Francisco,1 to 50 employees,Company - Private,IT Services,87,140,113.5,data scientist, CA
+453,354,Data Scientist,3.4,Leidos 3.4,Springfield,10000+ employees,Company - Public,Aerospace & Defense,76,127,101.5,data scientist, VA
+454,355,"Data Analyst, Performance Partnership",3.6,Beckman Coulter Diagnostics 3.6,New York,10000+ employees,Subsidiary or Business Segment,Health Care Products Manufacturing,54,92,73.0,analyst, NY
+455,356,Data Scientist,3.5,IHS Markit 3.5,New York,10000+ employees,Company - Public,Consulting,61,100,80.5,data scientist, NY
+456,357,Data Scientist,-1.0,ALIN,New York,Unknown,Company - Private,-1,81,140,110.5,data scientist, NY
+457,358,Staff BI and Data Engineer,2.9,Affinity Solutions 2.9,San Jose,51 to 200 employees,Company - Private,Advertising & Marketing,80,148,114.0,data engineer, CA
+458,359,Data Scientist,3.5,e-IT Professionals Corp. 3.5,Foster City,51 to 200 employees,Company - Private,"Health, Beauty, & Fitness",108,171,139.5,data scientist, CA
+459,360,Data Scientist,4.8,TechProjects 4.8,New York,1 to 50 employees,Company - Private,IT Services,112,179,145.5,data scientist, NY
+460,361,Data Scientist,4.0,Biz2Credit Inc 4.0,New York,201 to 500 employees,Company - Private,Lending,63,111,87.0,data scientist, NY
+461,362,Data Scientist,4.2,PeoplesBank 4.2,Holyoke,201 to 500 employees,Company - Private,Banks & Credit Unions,75,126,100.5,data scientist, MA
+462,363,Data Scientist Manager,3.8,Capgemini 3.8,New York,10000+ employees,Company - Public,Enterprise Software & Network Solutions,110,184,147.0,data scientist, NY
+463,364,Data Engineer,3.7,GNY Insurance Companies 3.7,New York,201 to 500 employees,Company - Private,Insurance Carriers,76,145,110.5,data engineer, NY
+464,365,Marketing Data Analyst,3.9,Citadel Federal Credit Union 3.9,Exton,501 to 1000 employees,Nonprofit Organization,Banks & Credit Unions,36,62,49.0,analyst, PA
+465,366,Data Scientist,4.6,"Conch Technologies, Inc 4.6",Waltham,51 to 200 employees,Company - Private,Consulting,70,118,94.0,data scientist, MA
+466,367,Senior Data Scientist,4.3,Medidata Solutions 4.3,New York,1001 to 5000 employees,Company - Public,Enterprise Software & Network Solutions,94,153,123.5,data scientist, NY
+468,368,Data Analyst,3.7,CALIBRE Systems 3.7,Alexandria,501 to 1000 employees,Company - Private,IT Services,50,92,71.0,analyst, VA
+469,369,Software Data Engineer - College,4.0,HP Inc. 4.0,Corvallis,10000+ employees,Company - Public,Computer Hardware & Software,49,97,73.0,data engineer, OR
+470,370,"Director - Data, Privacy and AI Governance",3.6,MassMutual 3.6,Boston,5001 to 10000 employees,Company - Private,Insurance Carriers,67,135,101.0,director, MA
+471,371,Staff Machine Learning Engineer,3.9,Tapjoy 3.9,San Francisco,201 to 500 employees,Company - Private,Internet,138,224,181.0,mle, CA
+472,372,Data Scientist,3.7,Northrop Grumman 3.7,San Diego,10000+ employees,Company - Public,Aerospace & Defense,80,139,109.5,data scientist, CA
+473,373,Lead Data Scientist,3.7,Visa Inc. 3.7,Bellevue,10000+ employees,Company - Public,IT Services,158,211,184.5,data scientist, WA
+474,374,Senior Data Scientist - Algorithms,3.9,Quartet Health 3.9,New York,201 to 500 employees,Company - Private,Enterprise Software & Network Solutions,150,180,165.0,data scientist, NY
+475,375,Information Security Data Analyst,3.7,Motorola Solutions 3.7,Chicago,10000+ employees,Company - Public,Computer Hardware & Software,42,80,61.0,analyst, IL
+476,376,Lead Data Engineer,4.1,Credit Sesame 4.1,Mountain View,51 to 200 employees,Company - Private,Internet,190,220,205.0,data engineer, CA
+477,377,Data Analyst,3.1,Success Academy Charter Schools 3.1,New York,1001 to 5000 employees,School / School District,K-12 Education,42,77,59.5,analyst, NY
+480,378,Data Analytics Project Manager,3.6,MassMutual 3.6,Springfield,5001 to 10000 employees,Company - Private,Insurance Carriers,34,92,63.0,manager, MA
+481,379,Data Analyst,3.6,AXION Healthcare Solutions 3.6,New York,1 to 50 employees,Company - Private,Health Care Services & Hospitals,47,85,66.0,analyst, NY
+482,380,Data Engineer,3.5,Alignment Healthcare 3.5,Orange,501 to 1000 employees,Company - Private,Health Care Services & Hospitals,65,124,94.5,data engineer, CA
+483,381,Data Scientist,4.2,ExecOnline 4.2,New York,51 to 200 employees,Company - Private,Education Training Services,56,95,75.5,data scientist, NY
+484,382,Machine Learning Engineer,4.0,Mteq 4.0,Fort Belvoir,501 to 1000 employees,Company - Public,Aerospace & Defense,62,112,87.0,mle, VA
+485,383,Senior Data Scientist Oncology,3.9,AstraZeneca 3.9,Gaithersburg,10000+ employees,Company - Public,Biotech & Pharmaceuticals,107,173,140.0,data scientist, MD
+486,384,Data Scientist,3.7,Brillient 3.7,Silver Spring,201 to 500 employees,Company - Private,IT Services,64,108,86.0,data scientist, MD
+487,385,Senior Data Scientist,4.4,Entefy 4.4,Palo Alto,1 to 50 employees,Company - Private,Internet,89,144,116.5,data scientist, CA
+489,386,Machine Learning Engineer - Regulatory,3.7,Cboe Global Markets 3.7,Lenexa,501 to 1000 employees,Company - Public,Stock Exchanges,61,113,87.0,mle, KS
+490,387,Marketing Data Analyst,3.6,San Manuel Casino 3.6,Highland,1001 to 5000 employees,Company - Private,Gambling,35,62,48.5,analyst, CA
+491,388,Data Engineer,3.4,Trace3 3.4,Houston,501 to 1000 employees,Company - Private,IT Services,55,105,80.0,data engineer, TX
+494,389,Principal Data Scientist,3.7,Northrop Grumman 3.7,San Jose,10000+ employees,Company - Public,Aerospace & Defense,135,211,173.0,data scientist, CA
+495,390,Data Engineer,3.5,Saama Technologies Inc 3.5,Phoenix,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,57,80,68.5,data engineer, AZ
+496,391,Data Scientist - Alpha Insights,4.4,Two Sigma 4.4,New York,1001 to 5000 employees,Company - Private,Investment Banking & Asset Management,129,215,172.0,data scientist, NY
+497,392,"Data Scientist, Office of Data Science",3.3,Liberty Mutual Insurance 3.3,Boston,10000+ employees,Company - Private,Insurance Carriers,86,143,114.5,data scientist, MA
+499,393,Data Scientist - Systems Engineering,3.2,MITRE 3.2,Bedford,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,50,89,69.5,data scientist, MA
+500,394,Data Engineer,3.2,Guidepoint 3.2,New York,501 to 1000 employees,Company - Private,Research & Development,43,86,64.5,data engineer, NY
+502,395,Data Scientist,4.0,Strategic Financial Solutions 4.0,New York,501 to 1000 employees,Company - Private,Consumer Product Rental,71,124,97.5,data scientist, NY
+503,396,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",3.7,Takeda Pharmaceuticals 3.7,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,113,196,154.5,data engineer, MA
+504,397,Senior Research Scientist-Machine Learning,2.6,Software Engineering Institute 2.6,Pittsburgh,501 to 1000 employees,College / University,Colleges & Universities,81,167,124.0,mle, PA
+505,398,Data Scientist,3.4,"Remedy BPCI Partners, LLC. 3.4",New York,201 to 500 employees,Company - Private,Health Care Services & Hospitals,69,121,95.0,data scientist, NY
+506,399,Senior Data Scientist,4.4,Maven Wave Partners 4.4,Chicago,201 to 500 employees,Company - Private,Consulting,97,160,128.5,data scientist, IL
+507,400,Principal Data Scientist,3.2,The Climate Corporation 3.2,San Francisco,501 to 1000 employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,150,238,194.0,data scientist, CA
+508,401,Data Scientist,3.5,Crossix Solutions 3.5,New York,201 to 500 employees,Company - Public,Advertising & Marketing,77,132,104.5,data scientist, NY
+510,402,Data Engineer - Consultant (Charlotte Based),4.2,Clarity Insights 4.2,Charlotte,201 to 500 employees,Company - Private,IT Services,59,112,85.5,data engineer, NC
+511,403,"Data Analyst 1, full-time contract worker for up to 12 months",4.2,The Church of Jesus Christ of Latter-day Saints 4.2,Salt Lake City,10000+ employees,Nonprofit Organization,Religious Organizations,35,65,50.0,analyst, UT
+512,404,Data Engineer,3.1,NCSOFT 3.1,Aliso Viejo,1001 to 5000 employees,Company - Public,Video Games,79,147,113.0,data engineer, CA
+514,405,Senior Data Scientist,4.3,Factual 4.3,Los Angeles,51 to 200 employees,Company - Private,Computer Hardware & Software,119,187,153.0,data scientist, CA
+515,406,Products Data Analyst II,3.3,TriNet 3.3,Dublin,1001 to 5000 employees,Company - Public,Consulting,90,157,123.5,analyst, CA
+516,407,Lead Data Analyst,3.9,Signpost 3.9,New York,201 to 500 employees,Company - Private,Internet,32,62,47.0,analyst, NY
+517,408,Analytics Manager - Data Mart,3.5,Central California Alliance for Health 3.5,Scotts Valley,501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,42,86,64.0,manager, CA
+519,409,Senior Data Scientist - R&D Oncology,3.9,AstraZeneca 3.9,New York,10000+ employees,Company - Public,Biotech & Pharmaceuticals,102,172,137.0,data scientist, NY
+520,410,Sr. Data Engineer - Contract-to-Hire (Java),3.0,Pilot Flying J Travel Centers LLC 3.0,Knoxville,10000+ employees,Company - Private,Gas Stations,69,127,98.0,data engineer, TN
+521,411,Data Scientist,3.7,Swiss Re 3.7,Armonk,10000+ employees,Company - Public,Insurance Agencies & Brokerages,86,144,115.0,data scientist, NY
+522,412,Senior Data Scientist,3.5,Sartorius 3.5,Arvada,5001 to 10000 employees,Company - Public,Biotech & Pharmaceuticals,102,165,133.5,data scientist, CO
+523,413,Data Engineer,4.0,Pinnacol Assurance 4.0,Denver,501 to 1000 employees,Nonprofit Organization,Insurance Carriers,74,124,99.0,data engineer, CO
+525,414,Senior Data Engineer,3.2,Equian LLC 3.2,Franklin,1001 to 5000 employees,Company - Private,Health Care Services & Hospitals,76,142,109.0,data engineer, TN
+526,415,Data Engineer,3.4,MetroStar Systems 3.4,Rockville,201 to 500 employees,Company - Private,IT Services,76,142,109.0,data engineer, MD
+527,416,Senior Data Scientist,4.4,MathWorks 4.4,Natick,1001 to 5000 employees,Company - Private,Computer Hardware & Software,108,171,139.5,data scientist, MA
+528,417,"Director II, Data Science - GRM Actuarial",3.3,Liberty Mutual Insurance 3.3,Chicago,10000+ employees,Company - Private,Insurance Carriers,202,306,254.0,director, IL
+529,418,Machine Learning Engineer,3.2,Information Builders 3.2,New York,1001 to 5000 employees,Company - Private,Computer Hardware & Software,91,159,125.0,mle, NY
+535,419,Associate Data Analyst- Graduate Development Program,3.3,National Interstate 3.3,Richfield,501 to 1000 employees,Company - Private,Insurance Carriers,32,59,45.5,analyst, OH
+536,420,IT Associate Data Analyst,3.7,The Hanover Insurance Group 3.7,Worcester,5001 to 10000 employees,Company - Public,Insurance Carriers,39,69,54.0,analyst, MA
+537,421,Sr. Data Engineer,4.5,Moser Consulting 4.5,Indianapolis,51 to 200 employees,Company - Private,Consulting,87,158,122.5,data engineer, IN
+538,422,Clinical Data Analyst,3.0,Greenway Health 3.0,Tampa,1001 to 5000 employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,27,48,37.5,analyst, FL
+539,423,Business Data Analyst,3.8,Fareportal 3.8,New York,1001 to 5000 employees,Company - Private,Travel Agencies,36,71,53.5,analyst, NY
+540,424,Senior Insurance Data Scientist,3.9,TransUnion 3.9,Chicago,5001 to 10000 employees,Company - Public,Financial Analytics & Research,107,173,140.0,data scientist, IL
+546,425,Revenue Analytics Manager,4.8,HOVER 4.8,San Francisco,51 to 200 employees,Company - Private,Computer Hardware & Software,45,78,61.5,manager, CA
+548,426,Data Scientist,4.7,Oversight Systems 4.7,Atlanta,51 to 200 employees,Company - Private,Computer Hardware & Software,60,99,79.5,data scientist, GA
+549,427,Data Scientist - Sales,4.7,Confluent 4.7,Mountain View,501 to 1000 employees,Company - Private,Computer Hardware & Software,130,206,168.0,data scientist, CA
+550,428,IT - Data Engineer II,3.4,Arbella Insurance 3.4,Quincy,1001 to 5000 employees,Company - Private,Insurance Carriers,61,119,90.0,data engineer, MA
+552,429,Senior Data Analyst,3.9,Life360 3.9,San Francisco,51 to 200 employees,Company - Public,Computer Hardware & Software,99,178,138.5,analyst, CA
+554,430,Data Science Project Manager,3.6,MassMutual 3.6,Boston,5001 to 10000 employees,Company - Private,Insurance Carriers,37,100,68.5,manager, MA
+556,431,Senior Data Engineer,4.4,Eventbrite 4.4,Nashville,1001 to 5000 employees,Company - Public,Internet,72,133,102.5,data engineer, TN
+559,432,Data Science Manager,3.2,"Numeric, LLC 3.2",Allentown,1 to 50 employees,Company - Private,Staffing & Outsourcing,95,160,127.5,manager, PA
+560,433,Data Analyst 2 (Missionary Department),4.2,The Church of Jesus Christ of Latter-day Saints 4.2,Salt Lake City,10000+ employees,Nonprofit Organization,Religious Organizations,53,91,72.0,analyst, UT
+562,434,Supply Chain Data Analyst,3.1,Icon Health and Fitness 3.1,Logan,1001 to 5000 employees,Company - Private,Consumer Products Manufacturing,33,61,47.0,analyst, UT
+563,435,Data Engineer - ETL,3.8,Shipt 3.8,Birmingham,501 to 1000 employees,Subsidiary or Business Segment,Consumer Product Rental,44,86,65.0,data engineer, AL
+564,436,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,3.8,Associated Banc-Corp 3.8,Green Bay,1001 to 5000 employees,Company - Public,Banks & Credit Unions,43,77,60.0,analyst, WI
+565,437,"Senior Manager, Epidemiologic Data Scientist",4.0,Pfizer 4.0,New York,10000+ employees,Company - Public,Biotech & Pharmaceuticals,125,210,167.5,data scientist, NY
+566,438,"Marketing Data Analyst, May 2020 Undergrad",3.8,Fareportal 3.8,New York,1001 to 5000 employees,Company - Private,Travel Agencies,44,86,65.0,analyst, NY
+567,439,Senior Data Analyst,4.0,Novetta 4.0,Herndon,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,69,119,94.0,analyst, VA
+568,440,Senior Data Analyst,1.9,Moda Operandi 1.9,New York,201 to 500 employees,Company - Private,"Department, Clothing, & Shoe Stores",65,110,87.5,analyst, NY
+569,441,Senior Data Engineer,4.0,Novetta 4.0,Reston,501 to 1000 employees,Company - Private,Enterprise Software & Network Solutions,67,127,97.0,data engineer, VA
+570,442,Senior Data Engineer,4.3,Genesys 4.3,Durham,5001 to 10000 employees,Company - Private,Computer Hardware & Software,78,147,112.5,data engineer, NC
+573,443,Data Scientist in Translational Medicine,3.8,Novartis 3.8,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,86,143,114.5,data scientist, MA
+574,444,Data Scientist,4.3,USEReady 4.3,New York,201 to 500 employees,Company - Private,Consulting,84,146,115.0,data scientist, NY
+575,445,Product Manager/Data Evangelist,3.2,"Numeric, LLC 3.2",Phila,1 to 50 employees,Company - Private,Staffing & Outsourcing,50,98,74.0,manager, PA
+577,446,Sr Data Engineer (Sr BI Developer),3.4,Tivity Health 3.4,Chandler,501 to 1000 employees,Company - Public,Health Care Services & Hospitals,90,110,100.0,data engineer, AZ
+578,447,"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",3.8,Novartis 3.8,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,92,150,121.0,data scientist, MA
+579,448,Senior Data Analyst/Scientist,4.5,Demandbase 4.5,San Francisco,201 to 500 employees,Company - Private,Computer Hardware & Software,90,153,121.5,analyst, CA
+582,449,Senior LiDAR Data Scientist,3.9,Luminar Technologies 3.9,Orlando,201 to 500 employees,Company - Private,Computer Hardware & Software,93,151,122.0,data scientist, FL
+583,450,Data Engineer,4.4,BRMi 4.4,Chantilly,51 to 200 employees,Company - Private,IT Services,61,109,85.0,data engineer, VA
+584,451,Data Engineer,3.4,IntraEdge 3.4,Scottsdale,501 to 1000 employees,Company - Private,IT Services,42,79,60.5,data engineer, AZ
+585,452,Lead Data Scientist,3.9,Zest AI 3.9,Burbank,51 to 200 employees,Company - Private,Financial Analytics & Research,139,221,180.0,data scientist, CA
+587,453,Big Data Engineer,3.3,Peraton 3.3,Chantilly,1001 to 5000 employees,Company - Private,Aerospace & Defense,84,153,118.5,data engineer, VA
+589,454,Managing Data Scientist/ML Engineer,3.4,PA Consulting 3.4,Boston,1001 to 5000 employees,Company - Private,Consulting,81,134,107.5,data scientist, MA
+590,455,Senior Data Engineer,4.7,Praetorian 4.7,Austin,51 to 200 employees,Company - Private,Security Services,97,180,138.5,data engineer, TX
+592,456,Data Engineering Analyst,3.8,COUNTRY Financial 3.8,Bloomington,1001 to 5000 employees,Company - Private,Insurance Carriers,44,73,58.5,data engineer, IL
+593,457,Sr. Data Engineer,3.4,Echo Global Logistics 3.4,Chicago,1001 to 5000 employees,Company - Public,Transportation Management,75,140,107.5,data engineer, IL
+595,458,Manager of Data Science,3.9,Tapjoy 3.9,San Francisco,201 to 500 employees,Company - Private,Internet,40,87,63.5,manager, CA
+597,459,Software Engineer (Data Scientist/Software Engineer) - SISW - MG,4.1,Mentor Graphics 4.1,Fremont,5001 to 10000 employees,Company - Public,Computer Hardware & Software,72,142,107.0,data scientist, CA
+598,460,Data Engineer,3.7,Maxar Technologies 3.7,Springfield,5001 to 10000 employees,Company - Public,Aerospace & Defense,74,137,105.5,data engineer, VA
+599,461,Data Engineer,2.8,ICW Group 2.8,San Diego,501 to 1000 employees,Company - Private,Insurance Carriers,57,109,83.0,data engineer, CA
+600,462,Lead Big Data Engineer,4.0,Glassdoor 4.0,San Francisco,1001 to 5000 employees,Company - Private,Internet,121,203,162.0,data engineer, CA
+602,463,Sr Software Engineer (Data Scientist),3.4,Assurant 3.4,Westlake,10000+ employees,Company - Public,Insurance Carriers,81,140,110.5,data scientist, OH
+603,464,Sr. Data Engineer (ETL Developer),3.7,F&G 3.7,Des Moines,201 to 500 employees,Subsidiary or Business Segment,Insurance Carriers,83,148,115.5,data engineer, IA
+605,465,Senior Data Scientist Artificial Intelligence,3.8,PNNL 3.8,Richland,1001 to 5000 employees,Government,Energy,60,101,80.5,data scientist, WA
+606,466,Analytics - Business Assurance Data Analyst,4.6,GreatAmerica Financial Services 4.6,Cedar Rapids,501 to 1000 employees,Company - Private,Lending,31,55,43.0,analyst, IA
+607,467,"Associate Director/Director, Safety Scientist",4.4,Acceleron Pharma 4.4,Cambridge,201 to 500 employees,Company - Public,Biotech & Pharmaceuticals,102,178,140.0,director, MA
+608,468,"Director, Precision Medicine Clinical Biomarker Scientist",4.0,Pfizer 4.0,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,136,208,172.0,director, MA
+610,469,Data Analyst Senior,3.0,AmeriHealth Caritas 3.0,Philadelphia,5001 to 10000 employees,Company - Private,Insurance Carriers,48,85,66.5,analyst, PA
+612,470,Lead Data Engineer (Python),4.7,Strategic Employment Partners 4.7,San Francisco,51 to 200 employees,Company - Private,Staffing & Outsourcing,66,123,94.5,data engineer, CA
+613,471,Data Science Manager,4.2,Grand Rounds 4.2,San Francisco,501 to 1000 employees,Company - Private,Health Care Services & Hospitals,171,272,221.5,manager, CA
+614,472,Senior Data Scientist 4 Artificial Intelligence,3.8,PNNL 3.8,Seattle,1001 to 5000 employees,Government,Energy,92,146,119.0,data scientist, WA
+615,473,Data Engineer,3.5,"SPINS, LLC 3.5",Chicago,201 to 500 employees,Company - Private,Consulting,65,126,95.5,data engineer, IL
+616,474,"Director II, Data Science - GRS Predictive Analytics",3.3,Liberty Mutual Insurance 3.3,Chicago,10000+ employees,Company - Private,Insurance Carriers,150,239,194.5,director, IL
+618,475,"Senior Operations Data Analyst, Call Center Operations",2.7,FLEETCOR 2.7,Nashville,5001 to 10000 employees,Company - Public,Financial Transaction Processing,20,34,13.5,analyst, TN
+619,476,Senior Quantitative Analyst,3.3,DTCC 3.3,Jersey City,1001 to 5000 employees,Company - Private,Brokerage Services,118,228,173.0,analyst, NJ
+620,477,Geospatial Software Developer and Data Scientist,3.7,Applied Research Laboratories 3.7,Austin,501 to 1000 employees,College / University,Colleges & Universities,82,129,105.5,data scientist, TX
+623,478,Systems Engineer II - Data Analyst,3.7,Raytheon 3.7,Huntsville,10000+ employees,Company - Public,Aerospace & Defense,49,76,62.5,analyst, AL
+625,479,Data Scientist,3.8,DICK'S Sporting Goods - Corporate 3.8,Coraopolis,10000+ employees,Company - Public,Sporting Goods Stores,61,109,85.0,data scientist, PA
+626,480,Principal Data Scientist,3.9,AstraZeneca 3.9,Gaithersburg,10000+ employees,Company - Public,Biotech & Pharmaceuticals,113,182,147.5,data scientist, MD
+627,481,Director Data Science,3.6,TRANZACT 3.6,Fort Lee,1001 to 5000 employees,Company - Private,Advertising & Marketing,124,199,161.5,director, NJ
+628,482,Data Engineer,3.7,Carilion Clinic 3.7,Roanoke,10000+ employees,Nonprofit Organization,Health Care Services & Hospitals,58,104,81.0,data engineer, VA
+629,483,Sr Data Analyst - IT,2.1,United BioSource 2.1,Blue Bell,1001 to 5000 employees,Other Organization,Biotech & Pharmaceuticals,52,93,72.5,analyst, PA
+630,484,Senior Data Engineer,3.9,Figure Eight 3.9,San Francisco,51 to 200 employees,Company - Public,Computer Hardware & Software,97,181,139.0,data engineer, CA
+631,485,Senior Data Engineer,3.9,Tapjoy 3.9,San Francisco,201 to 500 employees,Company - Private,Internet,100,173,136.5,data engineer, CA
+632,486,Sr. Data Analyst,3.2,DoubleVerify 3.2,New York,201 to 500 employees,Company - Private,Internet,58,108,83.0,analyst, NY
+634,487,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,3.8,Fareportal 3.8,New York,1001 to 5000 employees,Company - Private,Travel Agencies,53,96,74.5,data scientist, NY
+635,488,Data Analyst Chemist - Quality System Contractor,2.2,"Rodan and Fields, LLC 2.2",San Francisco,501 to 1000 employees,Company - Private,Beauty & Personal Accessories Stores,61,110,85.5,analyst, CA
+638,489,"Research Scientist, Machine Learning Department",2.6,Software Engineering Institute 2.6,Pittsburgh,501 to 1000 employees,College / University,Colleges & Universities,71,144,107.5,mle, PA
+639,490,Foundational Community Supports Data Analyst,3.4,DESC 3.4,Seattle,501 to 1000 employees,Nonprofit Organization,Social Assistance,32,57,44.5,analyst, WA
+640,491,"Senior Health Data Analyst, Star Ratings",3.3,Johns Hopkins Health Care 3.3,Glen Burnie,1001 to 5000 employees,Company - Private,Health Care Services & Hospitals,79,136,107.5,analyst, MD
+642,492,Sr. Data Analyst,3.7,Community Behavioral Health 3.7,Philadelphia,201 to 500 employees,Company - Private,Health Care Services & Hospitals,50,89,69.5,analyst, PA
+647,493,"Manager, Safety Scientist, Medical Safety & Risk Management",3.8,Agios Pharmaceuticals 3.8,Cambridge,501 to 1000 employees,Company - Public,Biotech & Pharmaceuticals,68,125,96.5,manager, MA
+648,494,"Assistant Director/Director, Office of Data Science",3.3,Liberty Mutual Insurance 3.3,Boston,10000+ employees,Company - Private,Insurance Carriers,39,67,53.0,director, MA
+649,495,Sr. Data Engineer | Big Data SaaS Pipeline,2.7,Bridg 2.7,Los Angeles,1 to 50 employees,Company - Private,Enterprise Software & Network Solutions,71,135,103.0,data engineer, CA
+650,496,Senior Risk Data Scientist,3.8,Bill.com 3.8,Palo Alto,501 to 1000 employees,Company - Public,Financial Transaction Processing,107,172,139.5,data scientist, CA
+651,497,Data Scientist in Artificial Intelligence Early Career,3.8,Pacific Northwest National Laboratory 3.8,Richland,1001 to 5000 employees,Government,Energy,49,85,67.0,data scientist, WA
+654,498,Data Analyst,3.6,AXION Healthcare Solutions 3.6,New York,1 to 50 employees,Company - Private,Health Care Services & Hospitals,47,85,66.0,analyst, NY
+655,499,Data Engineer,3.5,Alignment Healthcare 3.5,Orange,501 to 1000 employees,Company - Private,Health Care Services & Hospitals,65,124,94.5,data engineer, CA
+656,500,Data Scientist,3.6,TRANZACT 3.6,Fort Lee,1001 to 5000 employees,Company - Private,Advertising & Marketing,87,141,114.0,data scientist, NJ
+657,501,Data Scientist,4.2,ExecOnline 4.2,New York,51 to 200 employees,Company - Private,Education Training Services,56,95,75.5,data scientist, NY
+658,502,Data Scientist,3.5,Charter Spectrum 3.5,Maryland Heights,1 to 50 employees,School / School District,K-12 Education,71,121,96.0,data scientist, MO
+659,503,Machine Learning Engineer,4.0,Mteq 4.0,Fort Belvoir,501 to 1000 employees,Company - Public,Aerospace & Defense,62,112,87.0,mle, VA
+660,504,Data Scientist,3.7,Brillient 3.7,Silver Spring,201 to 500 employees,Company - Private,IT Services,64,108,86.0,data scientist, MD
+661,505,Senior Data Scientist,4.4,Entefy 4.4,Palo Alto,1 to 50 employees,Company - Private,Internet,89,144,116.5,data scientist, CA
+663,506,Marketing Data Analyst,3.6,San Manuel Casino 3.6,Highland,1001 to 5000 employees,Company - Private,Gambling,35,62,48.5,analyst, CA
+664,507,Machine Learning Engineer - Regulatory,3.7,Cboe Global Markets 3.7,Lenexa,501 to 1000 employees,Company - Public,Stock Exchanges,61,113,87.0,mle, KS
+665,508,Data Engineer,3.4,Trace3 3.4,Houston,501 to 1000 employees,Company - Private,IT Services,55,105,80.0,data engineer, TX
+667,509,Principal Data Scientist,3.7,Northrop Grumman 3.7,San Jose,10000+ employees,Company - Public,Aerospace & Defense,135,211,173.0,data scientist, CA
+669,510,Data Engineer,3.5,Saama Technologies Inc 3.5,Phoenix,501 to 1000 employees,Company - Private,Biotech & Pharmaceuticals,57,80,68.5,data engineer, AZ
+671,511,Data Scientist - Systems Engineering,3.2,MITRE 3.2,Bedford,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,50,89,69.5,data scientist, MA
+672,512,Senior Data Scientist,4.4,The David J. Joseph Company 4.4,Cincinnati,201 to 500 employees,Subsidiary or Business Segment,Metals Brokers,82,132,107.0,data scientist, OH
+673,513,Data Scientist SR,3.9,The Buffalo Group 3.9,Charlottesville,501 to 1000 employees,Company - Private,IT Services,85,139,112.0,data scientist, VA
+674,514,Data Scientist,3.4,CompQsoft 3.4,Washington,51 to 200 employees,Company - Private,Consulting,72,121,96.5,data scientist, DC
+676,515,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",3.7,Takeda Pharmaceuticals 3.7,Cambridge,10000+ employees,Company - Public,Biotech & Pharmaceuticals,113,196,154.5,data engineer, MA
+677,516,Data Scientist,3.4,"Remedy BPCI Partners, LLC. 3.4",New York,201 to 500 employees,Company - Private,Health Care Services & Hospitals,69,121,95.0,data scientist, NY
+678,517,Data Scientist,4.0,Strategic Financial Solutions 4.0,New York,501 to 1000 employees,Company - Private,Consumer Product Rental,71,124,97.5,data scientist, NY
+679,518,Senior Data Scientist,4.4,Maven Wave Partners 4.4,Chicago,201 to 500 employees,Company - Private,Consulting,97,160,128.5,data scientist, IL
+680,519,Senior Research Scientist-Machine Learning,2.6,Software Engineering Institute 2.6,Pittsburgh,501 to 1000 employees,College / University,Colleges & Universities,81,167,124.0,mle, PA
+681,520,Principal Data Scientist,3.2,The Climate Corporation 3.2,San Francisco,501 to 1000 employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,150,238,194.0,data scientist, CA
+683,521,"Data Analyst 1, full-time contract worker for up to 12 months",4.2,The Church of Jesus Christ of Latter-day Saints 4.2,Salt Lake City,10000+ employees,Nonprofit Organization,Religious Organizations,35,65,50.0,analyst, UT
+684,522,Data Scientist,3.5,Crossix Solutions 3.5,New York,201 to 500 employees,Company - Public,Advertising & Marketing,77,132,104.5,data scientist, NY
+685,523,Data Scientist,4.3,Solugenix Corporation 4.3,Phoenix,201 to 500 employees,Company - Private,IT Services,51,88,69.5,data scientist, AZ
+686,524,Data Scientist,2.6,West Coast University 2.6,Irvine,10000+ employees,Company - Private,Colleges & Universities,101,141,121.0,data scientist, CA
+687,525,Data Engineer - Consultant (Charlotte Based),4.2,Clarity Insights 4.2,Charlotte,201 to 500 employees,Company - Private,IT Services,59,112,85.5,data engineer, NC
+688,526,Data Engineer,3.1,NCSOFT 3.1,Aliso Viejo,1001 to 5000 employees,Company - Public,Video Games,79,147,113.0,data engineer, CA
+689,527,Data Scientist (Warehouse Automation),3.8,SoftBank Robotics 3.8,San Francisco,201 to 500 employees,Subsidiary or Business Segment,Consumer Products Manufacturing,79,127,103.0,data scientist, CA
+691,528,Senior Data Scientist,4.3,Factual 4.3,Los Angeles,51 to 200 employees,Company - Private,Computer Hardware & Software,119,187,153.0,data scientist, CA
+692,529,Jr. Data Scientist,3.2,MITRE 3.2,McLean,5001 to 10000 employees,Nonprofit Organization,Federal Agencies,81,132,106.5,data scientist, VA
+693,530,Senior Data Scientist,5.0,SkySync 5.0,Ann Arbor,51 to 200 employees,Company - Private,Computer Hardware & Software,120,140,130.0,data scientist, MI
+694,531,Products Data Analyst II,3.3,TriNet 3.3,Dublin,1001 to 5000 employees,Company - Public,Consulting,90,157,123.5,analyst, CA
+696,532,Analytics Manager - Data Mart,3.5,Central California Alliance for Health 3.5,Scotts Valley,501 to 1000 employees,Nonprofit Organization,Health Care Services & Hospitals,42,86,64.0,manager, CA
+697,533,Lead Data Analyst,3.9,Signpost 3.9,New York,201 to 500 employees,Company - Private,Internet,32,62,47.0,analyst, NY
+699,534,Senior Data Scientist Oncology,3.9,AstraZeneca 3.9,Gaithersburg,10000+ employees,Company - Public,Biotech & Pharmaceuticals,107,173,140.0,data scientist, MD
+700,535,Data Scientist,3.4,"DatamanUSA, LLC 3.4",Olympia,51 to 200 employees,Company - Private,IT Services,65,113,89.0,data scientist, WA
+701,536,Sr. Data Engineer - Contract-to-Hire (Java),3.0,Pilot Flying J Travel Centers LLC 3.0,Knoxville,10000+ employees,Company - Private,Gas Stations,69,127,98.0,data engineer, TN
+702,537,Senior Data Scientist - R&D Oncology,3.9,AstraZeneca 3.9,New York,10000+ employees,Company - Public,Biotech & Pharmaceuticals,102,172,137.0,data scientist, NY
+703,538,Data Engineer,4.0,Pinnacol Assurance 4.0,Denver,501 to 1000 employees,Nonprofit Organization,Insurance Carriers,74,124,99.0,data engineer, CO
+705,539,Senior Data Engineer,3.2,Equian LLC 3.2,Franklin,1001 to 5000 employees,Company - Private,Health Care Services & Hospitals,76,142,109.0,data engineer, TN
+706,540,Data Engineer,3.4,MetroStar Systems 3.4,Rockville,201 to 500 employees,Company - Private,IT Services,76,142,109.0,data engineer, MD
+707,541,Senior Data Scientist,4.4,MathWorks 4.4,Natick,1001 to 5000 employees,Company - Private,Computer Hardware & Software,108,171,139.5,data scientist, MA
+708,542,"Director II, Data Science - GRM Actuarial",3.3,Liberty Mutual Insurance 3.3,Chicago,10000+ employees,Company - Private,Insurance Carriers,202,306,254.0,director, IL
+709,543,Machine Learning Engineer,3.2,Information Builders 3.2,New York,1001 to 5000 employees,Company - Private,Computer Hardware & Software,91,159,125.0,mle, NY
+714,544,Data Scientist,3.2,"Numeric, LLC 3.2",Philadelphia,1 to 50 employees,Company - Private,Staffing & Outsourcing,96,161,128.5,data scientist, PA
+717,545,Associate Data Analyst- Graduate Development Program,3.3,National Interstate 3.3,Richfield,501 to 1000 employees,Company - Private,Insurance Carriers,32,59,45.5,analyst, OH
+718,546,Sr. Data Engineer,4.5,Moser Consulting 4.5,Indianapolis,51 to 200 employees,Company - Private,Consulting,87,158,122.5,data engineer, IN
+719,547,Clinical Data Analyst,3.0,Greenway Health 3.0,Tampa,1001 to 5000 employees,Subsidiary or Business Segment,Enterprise Software & Network Solutions,27,48,37.5,analyst, FL
+720,548,IT Associate Data Analyst,3.7,The Hanover Insurance Group 3.7,Worcester,5001 to 10000 employees,Company - Public,Insurance Carriers,39,69,54.0,analyst, MA
+721,549,Business Data Analyst,3.8,Fareportal 3.8,New York,1001 to 5000 employees,Company - Private,Travel Agencies,36,71,53.5,analyst, NY
+722,550,Senior Insurance Data Scientist,3.9,TransUnion 3.9,Chicago,5001 to 10000 employees,Company - Public,Financial Analytics & Research,107,173,140.0,data scientist, IL
+727,551,Revenue Analytics Manager,4.8,HOVER 4.8,San Francisco,51 to 200 employees,Company - Private,Computer Hardware & Software,45,78,61.5,manager, CA
+731,552,IT - Data Engineer II,3.4,Arbella Insurance 3.4,Quincy,1001 to 5000 employees,Company - Private,Insurance Carriers,61,119,90.0,data engineer, MA
+732,553,Machine Learning Engineer (NLP),4.1,CK-12 Foundation 4.1,Palo Alto,1 to 50 employees,Company - Private,K-12 Education,80,142,111.0,mle, CA
+733,554,Senior Data Analyst,3.9,Life360 3.9,San Francisco,51 to 200 employees,Company - Public,Computer Hardware & Software,99,178,138.5,analyst, CA
+734,555,Data Science Project Manager,3.6,MassMutual 3.6,Boston,5001 to 10000 employees,Company - Private,Insurance Carriers,37,100,68.5,manager, MA
+735,556,Data Engineer,3.9,Fivestars 3.9,San Francisco,201 to 500 employees,Company - Private,Internet,62,113,87.5,data engineer, CA
+738,557,Senior Data Engineer,4.4,Eventbrite 4.4,Nashville,1001 to 5000 employees,Company - Public,Internet,72,133,102.5,data engineer, TN
+740,558,Data Science Manager,3.2,"Numeric, LLC 3.2",Allentown,1 to 50 employees,Company - Private,Staffing & Outsourcing,95,160,127.5,manager, PA
