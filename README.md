@@ -30,10 +30,10 @@ What we want to track in our database is the evolution of the salary range corre
 
 
 
-Job Title : <br>
-   |Job ID (PK)| Integer| sample value :2| 
-  | Job Title| String| sample value Data Science Manager|
-   Job Classification: String, sample value: Data scientist, data engineer
+`Job Title : <br>
+   Job ID (PK), Integer, sample value :2| 
+    Job Title ,String, Sample value Data Science Manager
+   Job Classification: String, sample value: Data scientist, data engineer`
 
 Location dimension :
  
