@@ -23,7 +23,7 @@ In this instance, the grain is the average salary for data scientist positions a
 
 # 2-Dimensional, dimension attributes and measures/facts
 
-We will have 3  dimensional tables : Location dimension , Company dimension, Job dimension
+We will have 3  dimensional tables : Location dimension , Company dimension, Job dimension.
 What we want to track in our database is the evolution of the salary range corresponding to a data scientist job type in the companies. 
 
 Dimensions : 
