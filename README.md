@@ -31,16 +31,16 @@ What we want to track in our database is the evolution of the salary range corre
 
 
 
-`Job Title : <br>
-   Job ID (PK), Integer, sample value :2  <br>
-    Job Title ,String, Sample value Data Science Manager <br>
-   Job Classification: String, sample value: Data scientist, data engineer` <br>
+`Job Title :` <br>
+  ` Job ID (PK), Integer, sample value :2 ` <br>
+  ` Job Title ,String, Sample value Data Science Manager `<br>
+   `Job Classification: String, sample value: Data scientist, data engineer` <br>
 
 Location dimension :
  
-` Location ID (PK)  <br>
- City : String , sample value : Houston  <br>
-State : String, sample value : TX` <br>
+` Location ID (PK) ` <br>
+` City : String , sample value : Houston ` <br>
+` State : String, sample value : TX` <br>
 
 Company dimension :
 
@@ -53,4 +53,4 @@ Industry: String , sample value: Aerospace & Defense` <br>
 
 
 # 3- Dimensional model
-![alt text](https://github.com/fabienne-lab/CSI-4142/blob/images/image.jpg?raw=true)
+![alt text](https://github.com/fabienne-lab/CSI-4142/blob/images/Dimensions.jpg?raw=true)
