@@ -53,4 +53,4 @@ Industry: String , sample value: Aerospace & Defense` <br>
 
 
 # 3- Dimensional model
-![alt text](https://github.com/fabienne-lab/CSI-4142/blob/images/Dimensions.jpg?raw=true)
+![alt text](https://github.com/fabienne-lab/CSI-4142/images/Dimensions.jpg?raw=true)
