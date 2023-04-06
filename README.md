@@ -26,11 +26,13 @@ In this instance, the grain is the average salary for data scientist positions a
 We will have 3  dimensional tables : Location dimension , Company dimension, Job dimension.<br>
 What we want to track in our database is the evolution of the salary range corresponding to a data scientist job type in the companies. 
 
-Dimensions : 
+#### Dimensions : <br>
 
-Job Title : 
-   Job ID (PK): Integer, sample value: 2
-   Job Title: String, sample value: Data Science Manager
+
+
+Job Title : <br>
+   |Job ID (PK)| Integer| sample value :2| 
+  | Job Title| String| sample value Data Science Manager|
    Job Classification: String, sample value: Data scientist, data engineer
 
 Location dimension :
